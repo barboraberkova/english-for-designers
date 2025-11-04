@@ -1,3 +1,3 @@
 # Alt Text
 
-Some other text I wrote
+This is ome other text I wrote
