@@ -2,4 +2,4 @@
 
 Work-in-progress classwork.
 
-- [Alt Text] (alt-text/index.md)
+- [Alt Text](alt-text/index.md)
