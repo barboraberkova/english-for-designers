@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{ page.title }}</title>
+
+  <!-- Combined Standard & Open Graph Meta Tags -->
+  <meta name="title" property="og:title" content="{{ page.title }}">
+  <meta name="description" property="og:description" content="{{ page.description }}">
+  <meta property="og:image" content="https://raw.githubusercontent.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/refs/heads/{{ site.github.source.branch }}{{ page.url }}{{ page.image }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | default: page.title }}">
+  <meta name="author" content="Add Your Name/Surname">
+
+  <!-- GitHub Primer CSS (keep it simple; makes it look like GitHub) -->
+  <link rel="stylesheet" href="https://unpkg.com/@primer/css@^20.0.0/dist/primer.css" fetchpriority="high">
+</head>
+<body class="markdown-body container-lg mx-auto my-5 p-3">
+
+{{ content }}
+
+</body>
+</html>
