@@ -6,11 +6,12 @@ image: "img/og-preview-image.png"
 ---
 
 # Hello!
-
-Welcome to this page!
+Hi, I'm Bara, the Head of Design at Keyspace Media. 
+I believe that design is the solution for our world to function—it's everything around us, shaping us and making our world a better place. I hold the view that small details truly matter, even the ones no one can see, because they define the quality of everything we create.
 
 # 
-- [Preview Image](#opengraph-social-media-preview-image)
+- [keyspace](#opengraph-social-media-preview-image)
+- [my school work](#opengraph-social-media-preview-image)
 
 
 On this website, you will find all the information about the perfect cat toy. You'll also have the privilege to see the making process of our toys
