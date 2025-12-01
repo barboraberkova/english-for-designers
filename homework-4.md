@@ -9,10 +9,10 @@ This is me the morning of the presentation, finishing just some minor things
 
 ![Description of the image, what it represents](img/homework-1-result.png)
 
-And this is my final presentation (just a sneak peak. If you want to see more
+And this is my final presentation
 
-## Visualization/Result
+![Description of the image, what it represents](img/presentation-in-progress.png)
 
-Here is an image of the final work. Don't forget to upload the image to a folder (e.g., `img/`) and set the path correctly.
+(just a sneak peak) 
 
-![Description of the image, what it represents](img/homework-1-result.png)
+If you want to see more [Visit Keyspace Media Website](https://www.keyspace.cz).
