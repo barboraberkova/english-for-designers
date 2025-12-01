@@ -1,25 +1,17 @@
----
-layout: default
-title: "Homework 1: Bespoke Character"
----
 
 # 📝 Homework 1: Bespoke Character
 
 ## What I worked on
 
-Here is a detailed description of my work on this assignment. It includes the research, design, and implementation phases.
-Design a bespoke character from the modern English alphabet:
+Our homework was to design a bespoke character from the modern English alphabet:
 
-Choose a single letterform (A–Z)
-Use any style: lowercase or uppercase, sans-serif or serif, cursive, fantasy, etc.
-Use any technique: hand-drawn, analog, digital, or mixed media
-Please avoid AI tools for this assignment
+- Choose a single letterform (A–Z)
+- Use any style: lowercase or uppercase, sans-serif or serif, cursive, fantasy, etc.
+- Use any technique: hand-drawn, analog, digital, or mixed media
 
-* **Goal:** The main objective of the project.
-* **Process:** Describing the steps that led to the result.
-* **Technologies:** A list of tools and technologies used (e.g., Figma, HTML, CSS).
+I knew I wanted to sew something, but I wasn't sure what. My first step was to browse the fabrics, and a cat-patterned one immediately caught my eye. Inspired by the material, I decided on a cat-related project. This led to the idea of creating a letter 'C' that functions as both a cat toy and a bookmark. For my next assignment, I expanded on the bookmark idea by creating a cat poem. (this will lead to the cat poem page)
 
-This text should describe in detail what you did, what your thought processes were, and what results you achieved.
+
 
 ---
 
