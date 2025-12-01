@@ -1,5 +1,5 @@
 
-# 📝 Homework 3: 
+# 📝 Homework 3: Metadata and Preview Imamge Variations
 
 ## What I worked on
 
