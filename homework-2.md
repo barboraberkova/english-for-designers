@@ -1,5 +1,5 @@
 
-# 📝 Homework 2: Alt text
+# 📝 Homework 2: Alt text & Type Specimen
 
 ## What I worked on
 
