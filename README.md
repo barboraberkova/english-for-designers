@@ -10,6 +10,8 @@ I’m Barbora Berková, Head of Design at Keyspace Media.
 
 I am a multidisciplinary designer dedicated to transforming complex ideas into clear, meaningful visual stories. I believe design is a vital component of how our world functions, and I thrive in collaborative environments where we create solutions that feel both intentional and human.
 
+**[Read my story...](my-story.md)**
+
 If you'd like to connect or discuss a project, you can reach me at b.berkova@keyspace.cz 
 
 ---
