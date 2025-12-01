@@ -6,8 +6,11 @@ image: "img/og-preview-image.png"
 ---
 
 # Hello!
-Hi, I'm Bara, the Head of Design at Keyspace Media. 
-I believe that design is the solution for our world to function—it's everything around us, shaping us and making our world a better place. I hold the view that small details truly matter, even the ones no one can see, because they define the quality of everything we create.
+I’m Barbora Berková, Head of Design at Keyspace Media.
+
+I am a multidisciplinary designer dedicated to transforming complex ideas into clear, meaningful visual stories. I believe design is a vital component of how our world functions, and I thrive in collaborative environments where we create solutions that feel both intentional and human.
+
+If you'd like to connect or discuss a project, you can reach me at [contact info].
 
 # 
 - [keyspace](#opengraph-social-media-preview-image)
