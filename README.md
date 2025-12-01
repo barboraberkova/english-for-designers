@@ -29,7 +29,7 @@ This section provides an overview and links to my academic projects and assignme
 
 ### List of Assignments
 
-* [Homework 1: Assignment Title 1](homework-1.md)
+* [Homework 1: Bespoke Character](homework-1.md)
 * [Homework 2: Assignment Title 2](homework-2.md)
 * [Homework 3: Assignment Title 3](homework-3.md)
 * [Homework 4: Assignment Title 4](homework-4.md)
