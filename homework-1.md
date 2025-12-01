@@ -16,7 +16,6 @@ I knew I wanted to sew something, but I wasn't sure what. My first step was to b
 ---
 
 ## Visualization/Result
-
-Here is an image of the final work. Don't forget to upload the image to a folder (e.g., `img/`) and set the path correctly.
+This is the final project!
 
 ![Description of the image, what it represents](img/homework-1-result.png)
