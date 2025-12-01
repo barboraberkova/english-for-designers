@@ -4,11 +4,6 @@ Work-in-progress classwork.
 
 - [Alt Text](alt-text/index.md)
 
----
-"Bara - Portfolio & School Work"
-description: "Portfolio and school work by Bara, Head of Design at Keyspace Media."
-image: "img/my-profile-image.png"
----
 
 # Hello! 🙋‍♀️
 Hi, I'm Bara, the Head of Design at Keyspace Media. 
