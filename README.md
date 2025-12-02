@@ -37,3 +37,4 @@ This section provides an overview and links to my academic projects and assignme
 * [Homework 4: Presentation: What do I do?](homework-4.md)
 * [Homework 5: Collate, Structure, and Format Your Work](homework-5.md)
 * [Homework 6: Business Card & Handshake](homework-6.md)
+* [Homework 7: First Impressions](homework-7.md)
