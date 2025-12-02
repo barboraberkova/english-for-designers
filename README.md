@@ -35,3 +35,4 @@ This section provides an overview and links to my academic projects and assignme
 * [Homework 2: Alt text & Type Specimen](homework-2.md)
 * [Homework 3: Metadata and Preview Image Variations](homework-3.md)
 * [Homework 4: Presentation: What do I do?](homework-4.md)
+* [Homework 5: Collate, Structure, and Format Your Work](homework-5.md)
