@@ -1,7 +1,7 @@
 
 # My Story 🌟
 
-I’m Barbora Berková, a designer and media creator currently serving as the Head of Design at Keyspace Media.
+I’m Barbora Berková, a designer and a creative director currently serving as the Head of Design at Keyspace Media.
 
 I hold the strong belief that design is the fundamental solution for our world to function. It is everything around us—shaping our experiences and striving to make the world a better place. For me, the smallest details truly matter, even the ones no one can consciously see, because they define the quality and integrity of everything we create. My love for a strong design sensibility is deep; I can spend hours wandering through libraries just looking at the beauty of typography.
 
@@ -13,7 +13,7 @@ But life had other plans.
 
 Everything shifted when I traveled to the United States. I enrolled in two key courses: Digital Marketing and Business Procedures. Though I didn’t realize it then, those classes quietly marked the true beginning of my design journey.
 
-I applied to university before graduating high school and got in. I won’t lie; I was completely lost at first. However, team projects quickly became the crucible that pushed me, challenged me, and taught me how to think, communicate, and create effectively.
+I applied to university to study graphic and media design before graduating high school and got in. I won’t lie; I was completely lost at first. However, team projects quickly became the crucible that pushed me, challenged me, and taught me how to think, communicate, and create effectively.
 
 
 
@@ -22,5 +22,7 @@ The real acceleration began when we started working directly with our teacher on
 That intense, hands-on experience—combined with a shared desire to build something of our own—led to the birth of Keyspace, our creative agency.
 
 Today, I channel everything I’ve learned into thoughtful design work that powerfully combines clarity, storytelling, and genuine human connection.
+
+add some pictures here
 
 [Go back to Home](README.md)
