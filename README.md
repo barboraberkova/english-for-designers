@@ -18,7 +18,7 @@ If you'd like to connect or discuss a project, you can reach me at b.berkova@key
 
 ## 👩🏽‍💻 Keyspace Media
 
-Keyspace Media is a company where we specialize in **[Insert a brief description of the company's activity, e.g., creating innovative websites and digital strategies]**. We focus on quality, functionality, and design that delivers results. Our goal is to [Insert the company's main goal].
+Keyspace Media is our creative agency. Our services will help you in a field of graphic design, website development and other digital products or with marketing solutions. We’ll take care of these projects or we also offer long-term solutions for businesses in all fields mentioned.
 
 [Visit Keyspace Media Website](https://www.keyspace.cz)
 
