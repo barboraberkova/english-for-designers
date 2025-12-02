@@ -8,7 +8,7 @@ Work-in-progress classwork.
 # Hello! 🙋‍♀️
 I’m Barbora Berková, Head of Design at Keyspace Media.
 
-I am a multidisciplinary designer dedicated to transforming complex ideas into clear, meaningful visual stories. I believe design is a vital component of how our world functions, and I thrive in collaborative environments where we create solutions that feel both intentional and human.
+I am a designer dedicated to transforming complex ideas into clear, meaningful visual stories. I believe design is a vital component of how our world functions, and I thrive in collaborative environments where we create solutions that feel both intentional and human.
 
 **[Read my story...](my-story.md)**
 
