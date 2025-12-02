@@ -16,7 +16,7 @@ If you'd like to connect or discuss a project, you can reach me at b.berkova@key
 
 ---
 
-## 🚀 Keyspace Media
+## 👩🏽‍💻 Keyspace Media
 
 Keyspace Media is a company where we specialize in **[Insert a brief description of the company's activity, e.g., creating innovative websites and digital strategies]**. We focus on quality, functionality, and design that delivers results. Our goal is to [Insert the company's main goal].
 
