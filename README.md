@@ -27,7 +27,6 @@ Keyspace Media is a company where we specialize in **[Insert a brief description
 ## 📚 My School Work
 This section provides an overview and links to my academic projects and assignments.
 
-> Hello, here is my school work.
 
 ### List of Assignments
 
