@@ -39,3 +39,4 @@ This section provides an overview and links to my academic projects and assignme
 * [Homework 5: Collate, Structure, and Format Your Work](homework-5.md)
 * [Homework 6: Business Card & Handshake](homework-6.md)
 * [Homework 7: First Impressions](homework-7.md)
+* [Homework 8: Voice, Tone, and Style](homework-8.md)
