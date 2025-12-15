@@ -4,7 +4,7 @@
 ## What I worked on
 
 I created a short presentation featuring some of my work. 
-I was away from my computer for a long time and the only tool I had on me was my odl iPad. SO I created the presentation in Keynote on my iPad.
+I was away from my computer for a long time and the only tool I had on me was my old iPad. SO I created the presentation in Keynote on my iPad.
 This is me the morning of the presentation, finishing just some minor things
 
 ![Description of the image, what it represents](img/homework-1-result.png)
