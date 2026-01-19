@@ -10,7 +10,7 @@ I’m Barbora Berková, Head of Design at Keyspace Media.
 
 I believe that design is the solution for our world to function—it's everything around us, shaping us and making our world a better place. I hold the view that small details truly matter, even the ones no one can see, because they define the quality of everything we create.
 
-say what do I do, who am I?
+I'm a student, currently finishing my last year at VŠKK, a head of design and KeySpace, a creative person
 
 **[Read my story...](my-story.md)**
 
@@ -27,7 +27,14 @@ Keyspace Media is our creative agency. Our services will help you in a field of 
 ---
 
 ## 📚 My School Work
+
 This section provides an overview and links to my academic projects and assignments.
+
+I am studying Graphic and Media Design at VŠKK in Prague. It's given me a lot of experience, from design to marketing and much more. 
+This year, we (finally) have an English class, where we do some very interesting stuff. I have to say that it has helped me a lot and I see some things differently now, thanks to Justin and our class. 
+I believe that you mind find some of the things we did in class interesting, so go and explore it yourself!
+
+
 
 
 ### List of Assignments
