@@ -14,6 +14,14 @@ I’m Barbora Berková, a designer and creative leader currently working as the 
 
 I hold the strong belief that design is the fundamental solution for our world to function. It is everything around us—shaping our experiences and striving to make the world a better place. For me, the smallest details truly matter, even the ones no one can consciously see, because they define the quality and integrity of everything we create. My love for good design runs deep; I can spend hours wandering through libraries just looking at the beauty of typography.
 
+##
+add something about my bachelor thesis: nowadays, I spend hours wandering through book stores, looking at childrens books. For my bachelor thesis, I am developing a kids brand, ... books, toys... I truly enjoy working on it, I am combining all the skills I have learned so far: drawing, writing, typography... 
+
+
+MAYBE ADD A SOLO PAGE ABOUT MY BACHELOR THESIS?
+
+##
+
 My path to this career wasn’t straightforward. In fact, I once told my dad—who is a lifelong graphic designer—that I could never do what he does for a living.
 
 But life had other plans.
