@@ -21,11 +21,11 @@ I knew I wanted to sew something, but I wasn't sure what. My first step was to b
   <tr>
     <td>
       <img src="img/work-in-progress-01.png" alt="choosing the fabrics and threads" width="400">
-      <br><em>fabrics and threads</em>
+      <br><em>choosing the fabrics and threads</em>
     </td>
     <td>
-      <img src="img/work-in-progress-02.png" alt="preparing the letter: drawing of a letter c on a paper" width="400">
-      <br><em>drawing of a letter c on a paper</em>
+      <img src="img/work-in-progress-02.png" alt="drawing of a letter c on a paper" width="400">
+      <br><em>preparing the letter: drawing of a letter c on a paper</em>
     </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ I knew I wanted to sew something, but I wasn't sure what. My first step was to b
     </td>
     <td>
       <img src="img/work-in-progress-04.png" alt="sewing machine and the letter c" width="400">
-      <br><em>sewing machine and the letter c</em>
+      <br><em>sewing the letter</em>
     </td>
   </tr>
   <tr>
