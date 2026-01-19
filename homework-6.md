@@ -13,9 +13,13 @@ add figma sketches
 add a photo of the card
 
 
-![Description of the image, what it represents](img/homework-1-result.png)
+![business card figma sketch](img/business-card-figma-sketch-01.png)
+
+![business card figma sketch](img/business-card-figma-sketch-02.png)
 
 # Handshake
+
+![first handshake version](img/handshake.png)
 
 ## First version
 
