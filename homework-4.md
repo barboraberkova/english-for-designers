@@ -10,7 +10,7 @@ This is me the morning of the presentation, finishing just some minor things
 ![Description of the image, what it represents](img/presentation-in-progress.png)
 
 
-And this is my final presentation
+## And this is my final presentation
 
 ![slide 1](img/what-do-i-do.001.png)
 ![slide 2](img/what-do-i-do.002.png)
@@ -52,6 +52,6 @@ And this is my final presentation
 ![slide 38](img/what-do-i-do.038.png)
 
 
-(just a sneak peak) 
+(this is just a sneak peak) 
 
 If you want to see more [Visit Keyspace Media Website](https://www.keyspace.cz).
