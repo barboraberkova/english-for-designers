@@ -1,3 +1,6 @@
+![Project Cover](img/cover.png)
+
+---
 # English for Designers
 
 Work-in-progress classwork.
