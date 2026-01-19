@@ -1,5 +1,5 @@
 
-# 📝 Homework 3: Metadata and Preview Imamge Variations
+# 📝 Homework 3: Metadata and Preview Image Variations
 
 ## What I worked on
 
