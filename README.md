@@ -1,13 +1,5 @@
 ![Project Cover](img/cover.png)
 
----
-# English for Designers
-
-Work-in-progress classwork.
-
-- [Alt Text](alt-text/index.md)
-
-
 # Hello! 🙋‍♀️
 I’m Barbora Berková, Head of Design at Keyspace Media.
 
