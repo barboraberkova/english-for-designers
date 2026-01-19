@@ -32,6 +32,16 @@ And this is my final presentation
 ![slide 18](img/what-do-i-do.018.png)
 ![slide 19](img/what-do-i-do.019.png)
 ![slide 20](img/what-do-i-do.020.png)
+![slide 21](img/what-do-i-do.021.png)
+![slide 22](img/what-do-i-do.022.png)
+![slide 23](img/what-do-i-do.023.png)
+![slide 24](img/what-do-i-do.024.png)
+![slide 25](img/what-do-i-do.025.png)
+![slide 26](img/what-do-i-do.026.png)
+![slide 27](img/what-do-i-do.027.png)
+![slide 28](img/what-do-i-do.028.png)
+![slide 29](img/what-do-i-do.029.png)
+![slide 30](img/what-do-i-do.030.png)
 
 
 (just a sneak peak) 
