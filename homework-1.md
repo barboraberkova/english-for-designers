@@ -15,7 +15,9 @@ I knew I wanted to sew something, but I wasn't sure what. My first step was to b
 
 ---
 
-## Visualization/Result
-This is the final project!
+## Work in progress🧵🪡
+![Description of the image, what it represents](img/work-in-progress-01.png)
+
+## This is the final project!
 
 ![Description of the image, what it represents](img/homework-1-result.png)
