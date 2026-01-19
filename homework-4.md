@@ -12,7 +12,7 @@ This is me the morning of the presentation, finishing just some minor things
 
 And this is my final presentation
 
-![Slide 1](img/what-do-i-do-001.png)
+![Slide 1](/img/what-do-i-do-001.png)
 ![Slide 2](img/what-do-i-do-002.png)
 ![Slide 3](img/what-do-i-do-003.png)
 ![Slide 4](img/what-do-i-do-004.png)
