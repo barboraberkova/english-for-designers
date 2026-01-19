@@ -13,9 +13,17 @@ This is me the morning of the presentation, finishing just some minor things
 And this is my final presentation
 
 ![slide 1](img/what-do-i-do.001.png)
-![slide 1](img/what-do-i-do.002.png)
-![slide 1](img/what-do-i-do.003.png)
-![slide 1](img/what-do-i-do.004.png)
+![slide 2](img/what-do-i-do.002.png)
+![slide 3](img/what-do-i-do.003.png)
+![slide 4](img/what-do-i-do.004.png)
+![slide 5](img/what-do-i-do.005.png)
+![slide 6](img/what-do-i-do.006.png)
+![slide 7](img/what-do-i-do.007.png)
+![slide 8](img/what-do-i-do.008.png)
+![slide 9](img/what-do-i-do.009.png)
+![slide 10](img/what-do-i-do.010.png)
+![slide 11](img/what-do-i-do.011.png)
+![slide 12](img/what-do-i-do.012.png)
 
 
 
