@@ -13,4 +13,4 @@ Sketches, notes, and other relevant artifacts
 
 basically the whole github is this homework, so to see it check the whole github
 
-go backt to main page
+[Go back to Home](README.md)
