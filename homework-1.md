@@ -47,7 +47,7 @@ I knew I wanted to sew something, but I wasn't sure what. My first step was to b
 </table>
 ## This is the final project!
 
-![Description of the image, what it represents](img/homework-1-result.png)
+![cat bookmark](img/cat-bookmark.png)
 
 
 [Go back to Home](README.md)
