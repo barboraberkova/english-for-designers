@@ -10,6 +10,8 @@
 
 [👨🏻‍🎨Billy Sweeney — Designer Portfolio](https://billysweeney.com/)
 
+[🎧🎶Hiroki Saitoh — Musician & Soundscape Designer](https://hirokisaitoh.com/)
+
 
 
 [Go back to Home](README.md)
