@@ -63,7 +63,7 @@ You pay and then come back to the house.
 Once you’re home with the mouse and want to brag,
 Kitty just turns around and takes a nap.
 So next time you want to spend your money
-The joke’s on you-and it= s pretty funny
+The joke’s on you-and it's pretty funny
 Remember the homework Mr. Justin assigned-
 That letter makes a cat toy, perfectly designed.
 
@@ -88,6 +88,8 @@ Remember the homework Mr. Justin assigned. That letter makes a cat toy, perfectl
 ![Illustration.](img/illustration-01.png)
 ![Illustration.](img/illustration-02.png)
 ![Illustration.](img/illustration-03.png)
+
+## Final poem📄🙌🏻
 
 
 [Go back to Home](README.md)
