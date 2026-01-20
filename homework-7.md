@@ -4,7 +4,10 @@
 
 # Handshake
 
+Hello!
+I’m Barbora Berková, Head of Design at Keyspace Media.
 
+I believe that design is the solution for our world to function—it's everything around us, shaping us and making our world a better place. I hold the view that small details truly matter, even the ones no one can see, because they define the quality of everything we create.
 
 
 
