@@ -21,7 +21,14 @@ Note: The 1200 × 628 px size is standard for social media previews (LinkedIn, F
 
 ---
 
-## Visualization/Result
+## Preview Image Variations
 
 
-![Description of the image, what it represents](img/homework-1-result.png)
+![preview image](img/preview-image-a.png)
+![preview image](img/preview-image-b-wide.png)
+![preview image](img/preview-image-b.png)
+![preview image](img/preview-image-c-wide.png)
+![preview image](img/preview-image-c.png)
+![preview image](img/preview-image-d-wide.png)
+![preview image](img/preview-image-d.png)
+![preview image](img/preview-image-e.png)
