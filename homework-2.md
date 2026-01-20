@@ -91,6 +91,8 @@ Remember the homework Mr. Justin assigned. That letter makes a cat toy, perfectl
 
 ## Final poem📄🙌🏻
 
+![cat poem.](img/cat-poem.png)
+
 
 [Go back to Home](README.md)
 
