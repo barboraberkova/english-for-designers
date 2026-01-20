@@ -12,6 +12,9 @@ Generate two alt text descriptions using AI assistance (ChatGPT, Claude, etc.), 
 Review all four, then synthesize: write one final alt text description that combines the best of what you learned from writing with and without AI assistance.
 Document: All five versions with character counts and your iterations (and notes).
 
+#### Work in progress🤓
+![Work in progress alt text.](img/alt-text-work-in-progress.png)
+
 ### Part 2: Type Specimen
 
 Create a typographic composition featuring your bespoke drop cap in a meaningful text context.
