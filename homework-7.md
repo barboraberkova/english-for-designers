@@ -42,7 +42,12 @@ That intense, hands-on experience—combined with a shared desire to build somet
 Today, I channel everything I’ve learned into thoughtful design work that powerfully combines clarity, storytelling, and genuine human connection.
 
 ## My Bachelor thesis
-nowadays, I spend hours wandering through book stores, looking at childrens books. For my bachelor thesis, I am developing a kids brand, ... books, toys... I truly enjoy working on it, I am combining all the skills I have learned so far: drawing, writing, typography... 
+
+Nowadays, I can spend hours wandering through bookstores, specifically looking at children’s books. For my bachelor thesis, I am developing a brand for kids, and I’m truly enjoying the process. It allows me to combine every skill I’ve learned so far: from drawing and storytelling to typography.
+
+Want to know more about my bachelor thesis?
+
+My bachelor thesis
 
 link to my bachelor thesis page, in progress, will be done in June
 
