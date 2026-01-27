@@ -1,3 +1,7 @@
+---
+layout: deafault
+title: "Homework 4"
+---
 
 # 📝 Homework 4: Presentation: What do I do?
 
