@@ -45,6 +45,7 @@ I knew I wanted to sew something, but I wasn't sure what. My first step was to b
     </td>
     <td></td> </tr>
 </table>
+
 ## This is the final project!
 
 ![cat bookmark](img/cat-bookmark.png)
