@@ -33,22 +33,10 @@ Document: All five versions with character counts and your iterations (and notes
 
 ### Part 2: Type Specimen
 
-Create a typographic composition featuring your bespoke drop cap in a meaningful text context.
+This was such a fun task. I decided to write a poem and draw some additional pictures. 
 
-Write First
 
-Write an original short text (125–250 words) that features your letter and reflects your relationship to craft, design, typography, the making process, or a recent topic that interests you. Write it yourself — no AI, no copying. Use clear, direct language that people would actually want to read.
-
-Note: Quality over quantity. 125 meaningful words beat 250 of filler text.
-
-Design Second
-
-Create a typographic composition that brings together your drop cap and your written text.
-
-# What I worked on
-I decided that I will writre a poem.
-
-### Some ideas🤔💭
+### Some poem ideas🤔💭
 
 cat toy
 
