@@ -43,4 +43,4 @@ I believe that you mind find some of the things we did in class interesting, so 
 * [Homework 6: Business Card & Handshake](homework-6)
 * [Homework 7: First Impressions](homework-7)
 * [Homework 8: Voice, Tone, and Style](homework-8)
-* [Homework 9: Five-Minute Pitch (Final presentation)](homework-9.md)
+* [Homework 9: Five-Minute Pitch (Final presentation)](homework-9)
