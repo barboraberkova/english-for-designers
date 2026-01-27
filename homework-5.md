@@ -1,3 +1,4 @@
+# Homework 5: Organize all work
 Organize all work completed so far into a Markdown document, including:
 
 Written content
@@ -11,6 +12,8 @@ Process iterations
 Sketches, notes, and other relevant artifacts
 
 
-basically the whole github is this homework, so to see it check the whole github
+## What I worked on
 
-[Go back to Home](README.md)
+I organized all my work completed into a Markdown document. So I can say that the whole github page is this homework, so to see it, please check my whole page!
+
+[Go check it out!](./)
