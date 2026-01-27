@@ -83,6 +83,5 @@ Remember the homework Mr. Justin assigned. That letter makes a cat toy, perfectl
 
 ![cat poem.](img/cat-poem.png)
 
-
-[Go back to Home](README.md)
+[Go back to Home](./)
 
