@@ -54,4 +54,4 @@ I knew I wanted to sew something, but I wasn't sure what. My first step was to b
 ![cat bookmark](img/cat-bookmark.png)
 
 
-[Go back to Home](README.md)
+[Go back to Home](./)
