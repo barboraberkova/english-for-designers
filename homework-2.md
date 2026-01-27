@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Homework 2 | Barbora Berková"
+---
 
 # 📝 Homework 2: Alt text & Type Specimen
 
