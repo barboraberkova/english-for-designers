@@ -60,4 +60,4 @@ This is me the morning of the presentation, finishing just some minor things
 
 If you want to see more [Visit Keyspace Media Website](https://www.keyspace.cz).
 
-[Go back to Home](README.md)
+[Go back to Home](./)
