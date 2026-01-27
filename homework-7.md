@@ -47,11 +47,8 @@ Nowadays, I can spend hours wandering through bookstores, specifically looking a
 
 Want to know more about my bachelor thesis?
 
-My bachelor thesis
+[My Bachelor Thesis](bachelor-thesis)
 
-link to my bachelor thesis page, in progress, will be done in June
-
-##
 
 
 
