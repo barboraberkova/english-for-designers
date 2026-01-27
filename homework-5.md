@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Homework 5"
+---
 # Homework 5: Organize all work
 Organize all work completed so far into a Markdown document, including:
 
