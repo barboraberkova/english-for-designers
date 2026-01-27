@@ -17,10 +17,12 @@ Then I wrote an original short text that features my letter and reflects my rela
 
 # Alt texts
 1) A handmade, blue fabric ornament in the shape of the letter C with white cat faces lying on a wooden surface.
+
 2) Hand-sewn letter C bookmark made out of blue fabric with white cat heads on a beaded ribbon lying on a wooden surface.
 
 ## AI 
 1) A handmade, light blue fabric ornament in the shape of the letter "C," featuring a pattern of white cat faces, resting on a light wood surface.
+
 2) A hand-sewn letter "C" bookmark crafted from blue cat-print fabric, attached to a white beaded ribbon and displayed on a wooden tabletop.
 
 ---
