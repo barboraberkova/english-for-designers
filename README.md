@@ -41,6 +41,6 @@ I believe that you mind find some of the things we did in class interesting, so 
 * [Homework 4: Presentation: What do I do?](homework-4)
 * [Homework 5: Collate, Structure, and Format Your Work](homework-5)
 * [Homework 6: Business Card & Handshake](homework-6)
-* [Homework 7: First Impressions](homework-7.md)
+* [Homework 7: First Impressions](homework-7)
 * [Homework 8: Voice, Tone, and Style](homework-8.md)
 * [Homework 9: Five-Minute Pitch (Final presentation)](homework-9.md)
