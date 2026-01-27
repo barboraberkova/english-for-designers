@@ -46,4 +46,61 @@ That intense, hands-on experience—combined with a shared desire to build somet
 
 Today, I channel everything I’ve learned into thoughtful design work that powerfully combines clarity, storytelling, and genuine human connection.
 
-[Go back to Home](README.md)
+---
+layout: default
+title: "Homework 1"
+---
+
+# 📝 Homework 1: Bespoke Character
+
+## What I worked on
+
+Our homework was to design a bespoke character from the modern English alphabet:
+
+- Choose a single letterform (A–Z)
+- Use any style: lowercase or uppercase, sans-serif or serif, cursive, fantasy, etc.
+- Use any technique: hand-drawn, analog, digital, or mixed media
+
+I knew I wanted to sew something, but I wasn't sure what. My first step was to browse the fabrics, and a cat-patterned one immediately caught my eye. Inspired by the material, I decided on a cat-related project. This led to the idea of creating a letter 'C' that functions as both a cat toy and a bookmark. For my next assignment, I expanded on the bookmark idea by creating a cat poem. (this will lead to the cat poem page)
+
+
+
+---
+
+## Work in progress🧵🪡
+
+<table>
+  <tr>
+    <td>
+      <img src="img/work-in-progress-01.png" alt="choosing the fabrics and threads" width="400">
+      <br><em>choosing the fabrics and threads</em>
+    </td>
+    <td>
+      <img src="img/work-in-progress-02.png" alt="drawing of a letter c on a paper" width="400">
+      <br><em>preparing the letter: drawing of a letter c on a paper</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="img/work-in-progress-03.png" alt="letter c on a cat patterned fabric" width="400">
+      <br><em>letter c on a cat patterned fabric</em>
+    </td>
+    <td>
+      <img src="img/work-in-progress-04.png" alt="sewing machine and the letter c" width="400">
+      <br><em>sewing the letter</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="img/work-in-progress-05.png" alt="letter c made out of cat patterned fabric" width="400">
+      <br><em>letter c made out of cat patterned fabric</em>
+    </td>
+    <td></td> </tr>
+</table>
+
+## This is the final project!
+
+![cat bookmark](img/cat-bookmark.png)
+
+
+[Go back to Home](./)
