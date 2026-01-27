@@ -23,4 +23,4 @@ I created versions of metadata and preview images for my type specimen.
 ![preview image](img/preview-image-d.png)
 ![preview image](img/preview-image-e.png)
 
-[Go back to Home](README.md)
+[Go back to Home](./)
