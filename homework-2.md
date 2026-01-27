@@ -77,9 +77,8 @@ Remember the homework Mr. Justin assigned. That letter makes a cat toy, perfectl
 
 ## Illustrations🫟✏️
 
-![Illustration.](img/illustration-01.png)
-![Illustration.](img/illustration-02.png)
-![Illustration.](img/illustration-03.png)
+![Illustration.](img/illustrations.png)
+
 
 ## Final poem📄🙌🏻
 
