@@ -38,5 +38,5 @@ I am a multidisciplinary designer dedicated to transforming complex ideas into c
 
 If you'd like to connect or discuss a project, you can reach me at [contact info].
 
-[Go back to Home](README.md)
+[Go back to Home](./)
 
