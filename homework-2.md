@@ -6,6 +6,9 @@ title: "Homework 2"
 # 📝 Homework 2: Alt text & Type Specimen
 
 ## What I worked on
+I worked on creating Alt texts. Writing on my own and using ChatGPT.
+Then I wrote an original short text that features my letter and reflects my relationship to craft, design, typography, the making process, or a recent topic that interests me. Afterwards, I created a typographic composition that brings together my drop cap and my text.
+
 
 ### Part 1: Alt Text
 
