@@ -56,7 +56,7 @@ This is me the morning of the presentation, finishing just some minor things
 ![slide 38](img/what-do-i-do.038.png)
 
 
-(this is just a sneak peak) 
+(this is just a sneak peak)
 
 If you want to see more [Visit Keyspace Media Website](https://www.keyspace.cz).
 
