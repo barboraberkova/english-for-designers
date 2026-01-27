@@ -1,5 +1,7 @@
 # Five-Minute Pitch
 
+This is my final presentation. If you want to read what I said during my presentation, please scroll down to find the full text!🙌🏻
+
 ![final presentation](img/presentation-01.png)
 ![final presentation](img/presentation-02.png)
 ![final presentation](img/presentation-03.png)
