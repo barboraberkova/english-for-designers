@@ -3,7 +3,7 @@
 
 I’m Barbora Berková, a designer and a creative director currently serving as the Head of Design at Keyspace Media.
 
-I hold the strong belief that design is the fundamental solution for our world to function. It is everything around us—shaping our experiences and striving to make the world a better place. For me, the smallest details truly matter, even the ones no one can consciously see, because they define the quality and integrity of everything we create. My love for a strong design sensibility is deep; I can spend hours wandering through libraries just looking at the beauty of typography. - this is good,, talk more about it, maybe even write that sometimes I wonder that I would ask for a font for Christmas instead of other presents.
+I hold the strong belief that design is the fundamental solution for our world to function. It is everything around us—shaping our experiences and striving to make the world a better place. For me, the smallest details truly matter, even the ones no one can consciously see, because they define the quality and integrity of everything we create. My love for a strong design sensibility is deep; I can spend hours wandering through libraries just looking at the beauty of typography. Sometimes, when I think about what to wish for at Christmas, I find myself wanting to ask Ježíšek for a font I like. It sounds funny, I know—but to me, a font isn't just a set of letters. It's a tool; an asset I can use to make the world a more functional and beautiful place.
 
 ## My path to design wasn’t straightforward...
 
@@ -25,4 +25,4 @@ Today, I channel everything I’ve learned into thoughtful design work that powe
 
 add some pictures here
 
-[Go back to Home](README.md)
+[Go back to Home](./)
