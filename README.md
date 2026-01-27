@@ -8,7 +8,7 @@ I believe that design is the solution for our world to function—it's everythin
 
 I'm a student, currently finishing my last year at VŠKK, a head of design and KeySpace, a creative person
 
-**[Read my story...](my-story.md)**
+**[Read my story...](my-story)**
 
 If you'd like to connect or discuss a project, you can reach me at b.berkova@keyspace.cz 
 
