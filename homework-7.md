@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Homework 7"
+---
+
 # 📝 Homework 7: First Impressions
 
 ## What I worked on
