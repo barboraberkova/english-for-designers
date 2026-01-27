@@ -20,7 +20,11 @@ In class, we were tasked with designing personal business cards. Since we alread
 
 ## Result
 
-add a photo of the card
+I don't have the card with me, will update it later.
+
+## Our Business Cards
+![business card](img/bc.png)
+![business card](img/bc2.png)
 
 # Handshake
 
