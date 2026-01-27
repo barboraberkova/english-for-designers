@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Homework 6"
+---
+
 # 📝 Homework 6: Business Card & Handshake
 
 ## What I worked on
