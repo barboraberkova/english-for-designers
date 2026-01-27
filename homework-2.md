@@ -12,21 +12,16 @@ Then I wrote an original short text that features my letter and reflects my rela
 
 ### Part 1: Alt Text
 
-Using your alt text writing experience from in-class:
-
-Write two alt text descriptions without AI assistance. Aim for variety: emotional, technical, concise, and document your iteration process.
-Generate two alt text descriptions using AI assistance (ChatGPT, Claude, etc.), then edit and revise them based on the best practices. Document what you changed and why.
-Review all four, then synthesize: write one final alt text description that combines the best of what you learned from writing with and without AI assistance.
-Document: All five versions with character counts and your iterations (and notes).
-
 #### Work in progress🤓
 ![Work in progress alt text.](img/alt-text-work-in-progress.png)
 
-## Learning the Alphabet with Cats
+# Alt texts
+1) A handmade, blue fabric ornament in the shape of the letter C with white cat faces lying on a wooden surface.
+2) Hand-sewn letter C bookmark made out of blue fabric with white cat heads on a beaded ribbon lying on a wooden surface.
 
-### Each letter hides a furry story. Fun poems about cats teaching the ABCs the cat way.
-
-![Add your alt text description here.](img/og-preview-image.png)
+## AI 
+1) A handmade, light blue fabric ornament in the shape of the letter "C," featuring a pattern of white cat faces, resting on a light wood surface.
+2) A hand-sewn letter "C" bookmark crafted from blue cat-print fabric, attached to a white beaded ribbon and displayed on a wooden tabletop.
 
 ---
 
