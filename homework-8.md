@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Homework 8"
+---
+
 ## Voice, Tone, and Style
 
 ### My favorite websites and brands (that inspire me)
@@ -14,4 +19,4 @@
 
 
 
-[Go back to Home](README.md)
+[Go back to Home](./)
