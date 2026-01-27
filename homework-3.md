@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Homework 3"
+---
 
 # 📝 Homework 3: Metadata and Preview Image Variations
 
