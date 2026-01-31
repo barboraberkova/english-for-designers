@@ -13,7 +13,7 @@ Then I wrote an original short text that features my letter and reflects my rela
 ### Part 1: Alt Text
 
 #### Work in progress🤓
-![Work in progress alt text.](img/alt-text-work-in-progress.png)
+![Figma screen with many images and alt texts.](img/alt-text-work-in-progress.png)
 
 # Alt texts
 1) A handmade, blue fabric ornament in the shape of the letter C with white cat faces lying on a wooden surface.
