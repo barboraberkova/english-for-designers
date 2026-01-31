@@ -1,5 +1,5 @@
 
-![Project Cover](img/cover.png)
+![Project Cover Barbora Berková Head of Design at Keyspace](img/cover.png)
 
 # Hello! 🙋‍♀️
 I’m Barbora Berková, Head of Design at Keyspace Media.
