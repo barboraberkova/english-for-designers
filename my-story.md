@@ -23,6 +23,6 @@ That intense, hands-on experience—combined with a shared desire to build somet
 
 Today, I channel everything I’ve learned into thoughtful design work that powerfully combines clarity, storytelling, and genuine human connection.
 
-![final presentation](img/presentation-10.png)
+![showcase of multiple graphic design projects](img/presentation-10.png)
 
 [Go back to Home](./)
