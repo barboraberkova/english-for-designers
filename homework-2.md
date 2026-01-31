@@ -77,12 +77,12 @@ Remember the homework Mr. Justin assigned. That letter makes a cat toy, perfectl
 
 ## Illustrations🫟✏️
 
-![Illustration.](img/illustrations.png)
+![Cat Illustration.](img/illustrations.png)
 
 
 ## Final poem📄🙌🏻
 
-![cat poem.](img/cat-poem.png)
+![cat poem and a illustration of a black cat sitting on grass and an illustration of a letter c made out of cat patterned blue fabric.](img/cat-poem.png)
 
 [Go back to Home](./)
 
