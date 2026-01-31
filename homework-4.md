@@ -16,9 +16,9 @@ This is me the morning of the presentation, finishing just some minor things
 
 ## And this is my final presentation
 
-![slide 1](img/what-do-i-do.001.png)
-![slide 2](img/what-do-i-do.002.png)
-![slide 3](img/what-do-i-do.003.png)
+![slide 1. Photo of an ipad in the metro station Muzeum.](img/what-do-i-do.001.png)
+![slide 2. Presentation slide saying No time for a fancy presentation drawn in colors.](img/what-do-i-do.002.png)
+![slide 3. Text What do I do drawn in colors.](img/what-do-i-do.003.png)
 ![slide 4](img/what-do-i-do.004.png)
 ![slide 5](img/what-do-i-do.005.png)
 ![slide 6](img/what-do-i-do.006.png)
