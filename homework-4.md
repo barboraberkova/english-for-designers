@@ -28,7 +28,7 @@ This is me the morning of the presentation, finishing just some minor things
 ![slide 10. 2022.](img/what-do-i-do.010.png)
 ![slide 11. Coffee logo.](img/what-do-i-do.011.png)
 ![slide 12. Coffee shop flyer with their offer and an iced coffee photo.](img/what-do-i-do.012.png)
-![slide 13](img/what-do-i-do.013.png)
+![slide 13. FBLA.](img/what-do-i-do.013.png)
 ![slide 14](img/what-do-i-do.014.png)
 ![slide 15](img/what-do-i-do.015.png)
 ![slide 16](img/what-do-i-do.016.png)
