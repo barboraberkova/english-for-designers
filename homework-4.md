@@ -58,6 +58,25 @@ This is me the morning of the presentation, finishing just some minor things
 
 (this is just a sneak peak)
 
+# What I said:
+
+Before we start, I’d like to apologize. I was away from my computer and the only thing I had was my old iPad. So I created this presentation in Keynote.
+
+What do I do? Well, this is me, most of the time. Working on something, pretty much everywhere but my room. And this is my common view. A MacBook screen and a mess. But it didn’t always look like this. In 2021, my view looked like this. Those tickets took me to the USA. In 2022, I created my first logo and a flyer. I was really proud because I thought it was amazing. Canva was my best friend back in the day.
+
+One day, my teacher (and also my American dad) came to our business procedures class and told me he signed me up for an FBLA competition. No asking. Just informing me. FBLA stands for the Future Business Leaders of America, and you can compete in a lot of fields, including graphic design, which I competed in.
+
+We were tasked with creating a logo for a sports brand. I created this logo for Turtle and Hare Wear, inspired by the famous fairytale. Well, it was successful. I won first place and got to another round of this competition. It was truly a moment when I realized that graphic design might be something I want to do. So in 2023, I started working on my portfolio and got into VŠKK. I met Honza and Jakub, and we started working together as a team.
+
+These are some of the projects I worked on: Vide was a school project where we created a contact lenses brand, and it got into the Náplavka festival! This was an app for a gallery that I really enjoyed working on. Working with StudovatvUSA, the agency that I went to the USA with, was one of my first projects. I worked on a flyer, and later we built a new website for them.
+
+In April, we started working with one of our teachers, and it was the best experience ever. But we wanted to create something of our own. That is why we started a creative agency called Keyspace with Jakub and Honza.
+
+These are some of our projects, but I’m sure they will also show them to you in their presentations, so let’s be quick. We designed a new visual identity for a law agency, websites, or even this—this is our work. This information next to the car and on the car—that is also our work. These are business cards I really like, a visual identity for a car detailing brand, or a visual identity for Roomloop, a student housing platform. Monrix is our client, and currently we are working on a new website and business cards.
+
+Well, that’s it. If you’d like to see more, visit keyspace.cz!
+
+
 If you want to see more [Visit Keyspace Media Website](https://www.keyspace.cz).
 
 [Go back to Home](./)
