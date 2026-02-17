@@ -3,7 +3,7 @@
 
 I’m Barbora Berková, a designer and a creative director currently serving as the Head of Design at Keyspace Media.
 
-![photo of a smiling girl with long brown hair wearing black turtleneck and white vest, holding sunglasses during golden hour, standing in a garden behind trees, with a moody skies](img/portrait.png)
+![Portrait of a smiling girl with long brown hair wearing black turtleneck and white vest, holding sunglasses during golden hour. Standing in a garden behind trees, with a moody skies.](img/portrait.png)
 
 I hold the strong belief that design is the fundamental solution for our world to function. It is everything around us—shaping our experiences and striving to make the world a better place. For me, the smallest details truly matter, even the ones no one can consciously see, because they define the quality and integrity of everything we create. My love for a strong design sensibility is deep; I can spend hours wandering through libraries just looking at the beauty of typography. Sometimes, when I think about what to wish for at Christmas, I find myself wanting to ask Ježíšek for a font I like. It sounds funny, I know—but to me, a font isn't just a set of letters. It's a tool; an asset I can use to make the world a more functional and beautiful place.
 
