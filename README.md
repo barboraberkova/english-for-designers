@@ -35,6 +35,8 @@ I believe that you mind find some of the things we did in class interesting, so 
 
 ### List of Assignments
 
+#### Semester 1
+
 * [Homework 1: Bespoke Character](homework-1.md)
 * [Homework 2: Alt text & Type Specimen](homework-2)
 * [Homework 3: Metadata and Preview Image Variations](homework-3)
@@ -44,3 +46,6 @@ I believe that you mind find some of the things we did in class interesting, so 
 * [Homework 7: First Impressions](homework-7)
 * [Homework 8: Voice, Tone, and Style](homework-8)
 * [Homework 9: Five-Minute Pitch (Final presentation)](homework-9)
+
+#### Semester 2
+* [Homework 10: Case Study](homework-10)
