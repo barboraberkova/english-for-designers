@@ -4,7 +4,10 @@
 
 ![text introducing the goal and roles on a project](img/introduction.png)
 
-
+## Meet the hero
+Let me briefly introduce the real hero this is all about, an Australian artist Shaun Tan.
+Want to Read more? 
+link here
 
 ### Feeling Like a “Lost Thing” /Im feeling like a lost thing, and that’s a problem!
 (problem intro)
@@ -21,16 +24,21 @@ I came up with the idea of creating an app...
 I solved the frustration problem by creating an app, that tells you all the information needed and even more! (It navigates you through the gallery as you wander around.)
 
 
-### Starting on a Blank Canvas
+### Starting on a Blank Canvas /sketching process
 process
 
 - respondents (first thing first)
 - wireframes
 - key features
 
-### Choosing the Right Paints (still part of the process)
-assest, colors etc.
-I started by defining the...
+- basically drawing with a pencil
+
+### Choosing the Right Paints (still part of the process) /from sketches to colors/paints
+
+- basically painting with the colors
+- assest, colors etc.
+I started by defining the.../as I set what the features will be... from drawing the "sketches" of the app to real paints
+applying what I set
 
 ### How I painted the final artwork
 the final design, solution
