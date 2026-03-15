@@ -12,12 +12,12 @@ It's a weekend and it's raining outside. You don't want to sit on a couch and wa
 
 ### Here comes the savior: the designer!
 
-We solved the frustration problem by creating an app, that tells you all the information needed and even more! It navigates you through the gallery as you wander around.
+I solved the frustration problem by creating an app, that tells you all the information needed and even more! (It navigates you through the gallery as you wander around.)
 
 
 ### Feeling Like a “Lost Thing” /Im feeling like a lost thing, and that’s a problem!
 
-It can be annoying when you're in a gallery wanting to see your favorite artist and suddenly you don't know whee to go. The app helps visitors find their way around easily with no need asking or being lost. It has a navigation system that can talk to you or you can follow the navigation on your screen as you wander through rooms.
+You finally arrived to the gallery but another problem occures. It can be annoying when you're in a gallery wanting to see your favorite artist and suddenly you don't know whee to go. The app helps visitors find their way around easily with no need asking or being lost. It has a navigation system that can talk to you or you can follow the navigation on your screen as you wander through rooms.
 
 The app provides 
 
