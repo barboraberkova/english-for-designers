@@ -23,6 +23,7 @@ how I decided to solve the problem
 I came up with the idea of creating an app...
 I solved the frustration problem by creating an app, that tells you all the information needed and even more! (It navigates you through the gallery as you wander around.)
 
+image of the sketches
 
 ### Starting on a Blank Canvas /sketching process
 process
@@ -33,6 +34,9 @@ process
 
 - basically drawing with a pencil
 
+image of respondents and their needs
+image of wireframes
+
 ### Choosing the Right Paints (still part of the process) /from sketches to colors/paints
 
 - basically painting with the colors
@@ -40,9 +44,15 @@ process
 I started by defining the.../as I set what the features will be... from drawing the "sketches" of the app to real paints
 applying what I set
 
+image of colors
+image of typography
+image of assets
+
 ### How I painted the final artwork
 the final design, solution
 what it provides
+
+guide through the images and inroduce the app
 
 ![sign in or log in window](img/Registration.png)
 
