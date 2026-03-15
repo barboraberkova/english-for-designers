@@ -27,8 +27,9 @@ process
 - respondents (first thing first)
 - 
 
-### Choosing the Right Paints
+### Choosing the Right Paints (still part of the process)
 assest, colors etc.
+I started by defining the...
 
 ### How I painted the final artwork
 the final design, solution
