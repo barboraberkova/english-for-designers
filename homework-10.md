@@ -4,8 +4,11 @@
 
 ![text introducing the goal and roles on a project](img/introduction.png)
 
-### Starting on a Blank Canvas
 
+
+### Starting on a Blank Canvas or name it something like frustration?
+
+It's a weekend and it's raining outside. You don't want to sit on a couch and want to do something. You heard your favorite gallery has an interesting exhibition. You open their website and learn nothing. It is a mess. You try your luck and go to the gallery. It's closed. No information on the website. Annoying isn't it?
 
 the mission/goal
 my role (name it: here comes the hero/savior: the designer!
@@ -15,6 +18,9 @@ my role (name it: here comes the hero/savior: the designer!
 
 ### Feeling Like a “Lost Thing” /Im feeling like a lost thing, and that’s a problem!
 
+It can be annoying when you're in a gallery wanting to see your favorite artist and suddenly you don't know whee to go. The app helps visitors find their way around easily with no need asking or being lost. It has a navigation system that can talk to you or you can follow the navigation on your screen as you wander through rooms.
+
+The app provides 
 
 tickets
 navigation--> being lost in the labyrinth
