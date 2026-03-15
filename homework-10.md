@@ -10,10 +10,9 @@
 
 It's a weekend and it's raining outside. You don't want to sit on a couch and want to do something. You heard your favorite gallery has an interesting exhibition. You open their website and learn nothing. It is a mess. You try your luck and go to the gallery. It's closed. No information on the website. Annoying isn't it?
 
-the mission/goal
-my role (name it: here comes the hero/savior: the designer!
+### Here comes the savior: the designer!
 
-
+We solved the frustration problem by creating an app, that tells you all the information needed and even more! It navigates you through the gallery as you wander around.
 
 
 ### Feeling Like a “Lost Thing” /Im feeling like a lost thing, and that’s a problem!
