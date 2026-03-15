@@ -2,6 +2,8 @@
 
 ## From Silent Walk into a Shared journey/ Transforming a Silent Walk into a Shared Journey / 30 Seconds that Lead to a 2-Hour Journey
 
+![text introducing the goal and roles on a project](img/introduction.png)
+
 ### Starting on a Blank Canvas
 
 
