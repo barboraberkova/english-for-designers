@@ -25,7 +25,8 @@ I solved the frustration problem by creating an app, that tells you all the info
 process
 
 - respondents (first thing first)
-- 
+- wireframes
+- key features
 
 ### Choosing the Right Paints (still part of the process)
 assest, colors etc.
