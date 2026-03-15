@@ -44,7 +44,7 @@ applying what I set
 the final design, solution
 what it provides
 
-
+![sign in or log in window](img/Registration.png)
 
 The app provides 
 
