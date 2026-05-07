@@ -1,6 +1,8 @@
 # Today I learned
 
-
+![presentation slide with photos of coffee](img/coffee-slide.png)
+![presentation slide with photos of runners with medals](img/running-slide.png)
+![presentation slide with photos of computers and books featuring work social media photos](img/work-slide.png)
 
  
 CTA
