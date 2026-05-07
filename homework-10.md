@@ -6,6 +6,4 @@
 ![presentation slide with a photo of a red apple with a bite taken out of it sits on a white plate in front of a mirror. In the mirror's reflection, the apple appears whole and untouched, with the text 'ONLINE ISN'T REAL' written above it." ](img/work-slide.png)
 
  
-CTA
-Let’s talk. There’s more than a UXUI painting I can do for you!
-Portfolio | Linkedin
+[Go back to Home](./)
