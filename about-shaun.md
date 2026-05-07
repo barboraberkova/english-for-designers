@@ -1,3 +1,3 @@
-![about shaun tan text](img/shaun-tan.png)
-![showcase of his shaun tans books](img/books.png)
+![text about shaun tan with a picture](img/shaun-tan.png)
+![showcase of shaun tans books](img/books.png)
 
