@@ -6,8 +6,9 @@
 
 ## Meet the hero
 Let me briefly introduce the real hero this is all about, an Australian artist Shaun Tan.
-Want to Read more? 
-link here
+
+
+[Want do read more?](about-shaun.md)
 
 ### Feeling Like a “Lost Thing” /Im feeling like a lost thing, and that’s a problem!
 (problem intro)
