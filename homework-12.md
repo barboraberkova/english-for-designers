@@ -6,6 +6,9 @@ title: "Homework 12"
 ### Storytelling notes English 
 
 ![text](img/hi-slide.png)
+Hi!
+
+
 This is me. The head of design at KeySpace.
 
 I grew up as an only child. It wasn't intentional. I was supposed to have siblings and play with them. But life had other plans, and I'm a person who isn't a sister to anyone.
