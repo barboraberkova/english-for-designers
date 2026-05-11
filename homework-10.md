@@ -10,7 +10,10 @@ How pathetic is it? Imagine this: it's 1984 and you go to a coffee shop to get a
 But that's our reality. Constantly sharing how perfect our lives are just so someone can look at them and feel miserable — just like you do when you look at theirs.
 Send the pictures to your mom, send them to your dad, your best friends. Tell them how you've been and add the pictures to illustrate it, since you can and don't have to send them one of just 20 Polaroids.
 ![presentation slide with photos of computers and books featuring work social media photos](img/work-slide.png)
+So my message is: be visible, use social media for work, for growing your business — but please, remember to live a little. Outside your phone. There's so much more this world has to offer than just sharing your life and ruining other people's lives, including your own. Be present. Live in the moment. Do it for yourself.
+Share the joy with your loved ones, not with the invisible ones.
 ![presentation slide with a photo of a red apple with a bite taken out of it sits on a white plate in front of a mirror. In the mirror's reflection, the apple appears whole and untouched, with the text 'ONLINE ISN'T REAL' written above it." ](img/work-slide.png)
+And please, remember one thing. Online isn't real.
 
  
 [Go back to Home](./)
