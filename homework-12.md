@@ -8,9 +8,10 @@ title: "Homework 12"
 ![text](img/hi-slide.png)
 Hi!
 
-
+![text](img/this-is-me.png)
 This is me. The head of design at KeySpace.
 
+![text](img/only-child-slide.png)
 I grew up as an only child. It wasn't intentional. I was supposed to have siblings and play with them. But life had other plans, and I'm a person who isn't a sister to anyone.
 
 I grew up with no phone. Well, only a pink one I could use to call a magic princess in my imaginary world. No phones, no iPads. My parents gave me the chance to see the world, but also the space to be bored.
