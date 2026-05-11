@@ -12,7 +12,7 @@ Send the pictures to your mom, send them to your dad, your best friends. Tell th
 ![presentation slide with photos of computers and books featuring work social media photos](img/work-slide.png)
 So my message is: be visible, use social media for work, for growing your business — but please, remember to live a little. Outside your phone. There's so much more this world has to offer than just sharing your life and ruining other people's lives, including your own. Be present. Live in the moment. Do it for yourself.
 Share the joy with your loved ones, not with the invisible ones.
-![presentation slide with a photo of a red apple with a bite taken out of it sits on a white plate in front of a mirror. In the mirror's reflection, the apple appears whole and untouched, with the text 'ONLINE ISN'T REAL' written above it." ](img/work-slide.png)
+![presentation slide with a photo of a red apple with a bite taken out of it sits on a white plate in front of a mirror. In the mirror's reflection, the apple appears whole and untouched, with the text 'ONLINE ISN'T REAL' written above it." ](img/apple-slide.png)
 And please, remember one thing. Online isn't real.
 
  
