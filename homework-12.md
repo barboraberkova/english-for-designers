@@ -86,12 +86,16 @@ for example, Gerd here is an adventurous little dragon who doesn't like storms a
 It was a bit challenging at first. I had to define the brand values, which can sound abstract to customers. Telling them you have products with good quality, great materials, and benefits that support quality time together sounds nice — until you actually have to communicate it to them.
 ![text](img/question-mark.png)
 
+![text](img/bear-family.png)
 So I came up with the bear family. The bear family represents the brand values and communicates them through their day-to-day life. They raise their kids in line with the Montessori approach and respectful parenting.
-
+![text](img/bear-communication.png)
 Each member stands for something. The kids represent how kids behave, and the parents act in accordance with the principles of Montessori parenting.
 
+![text](img/summary-ubba.png)
 I came up with the concept. I created the designs for everything. I designed the website. An app. Everything you can think of. But we'll talk about that some other time.
 
+
+![text](img/ubba-girl-gerd.png)
 I might not change the world. But I at least want to make an impact on someone else's life. That's why I created ubba.
 
 My childhood inspired me to create ubba. I want to give other kids the experience I had — or at least help parents give their kids a little piece of what I had.
