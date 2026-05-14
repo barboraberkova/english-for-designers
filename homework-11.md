@@ -26,8 +26,17 @@ To solve the dual frustration of logistical chaos and gallery navigation, I desi
 
 > "A busy interface is the enemy of a peaceful gallery visit. My goal was to make the app’s UI clean so that the focus remains entirely on the art."
 
+I translated these initial conceptual ideas into low-fidelity layout sketches. This process helped me before committing to high-fidelity UI elements.
 
-image of the sketches
+- image sketches
+
+From these sketches, I came up with the core elements that would hold the whole experience together:
+
+* **The Reliable Info Hub:** gallery opening hours, entry updates, and ticket verification to eliminate pre-visit anxiety.
+* **The Audio Compass:** Providing a screen-free navigation system that talks to you as you wander through the exhibition rooms.
+* **The Invisible UI Framework:** Keeping layouts intentionally stripped back, monochromatic, and clean so Shaun Tan's vibrant paintings take center stage.
+
+
 
 ## Starting on a Blank Canvas /sketching process
 process
