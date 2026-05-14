@@ -11,6 +11,8 @@ Shaun’s art makes you feel like a 'lost thing' in a vast, beautiful world. My 
 
 If you aren't familiar with his work, you can [explore more about him](about-shaun.md) to see the visual anchor to this entire system.
 
+![showcase of paintings](img/shaun-tan-intro.png)
+
 ## I'm feeling like a lost thing, and that’s a problem!
 (problem intro)
 what needed to be solved:
