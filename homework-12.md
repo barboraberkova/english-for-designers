@@ -32,14 +32,18 @@ Kids need other kids to play with, and my parents made sure I had that. I was su
 ![text](img/friends-games.png)
 Our parents created an imaginary giant called Františ and his little dwarf friend Bažináč. They were constantly preparing games for us. One day we'd go on a treasure hunt; the next we'd just wander through the woods collecting pinecones and leaves. We had no phones. We were present for each other. My childhood was the best time of my life and shaped me into the person I am today.
 
+![text](img/my-family.png)
 Then my parents gave me the chance to study abroad, which opened many doors. I gained an American family: my American dad Jessie and my American mom Sarah. Jessie pushed me and convinced me to study graphic design. Thanks to him, I started building a portfolio. I wanted to get into the University of Creative Communication to study graphic design. My parents supported me and gave me the chance to study there. School taught me a lot. It opened more doors.
 
+![text](img/my-work.png)
 I started a business. But I guess it wasn't enough for me. When you're an ambitious person, you'll always want more. Everything you do is never enough.
 
+![text](img/thinking-sketching.png)
 I started thinking about more business ideas. I started thinking about my bachelor's thesis. I didn't want to do just another coffee shop redesign or another visual identity for a city. I wanted to create something I could bring to life. It was around 1 a.m. when I came up with the idea of creating something for children.
 
 So my ambitions, my magical childhood, my American experience, and today's world were the cornerstones of ubba.
 
+![text](img/kids-on-phones.png)
 Nowadays, many kids spend a lot of time on their phones. They have no space to be bored. That doesn't exist anymore. Today's world spoils kids and gives them endless choices that aren't always the best for them.
 
 So I came up with the idea to create ubba.
