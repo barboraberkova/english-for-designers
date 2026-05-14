@@ -67,14 +67,20 @@ Ubba wants to give children a beautiful and healthy childhood full of stories, e
 
 Ubba helps parents choose the right products for their kids. Ubba offers sustainable:
 
+![text](img/ubba-stuffed-animals.png)
 - Toys
+![text](img/ubba-games.png)
 - Games
+![text](img/ubba-book.png)
 - Books
 
 ![text](img/ubba-photos.png)
 I created ubba as a magical place.
 
-Everything you buy there has a purpose. Books teach kids how to read and count. Every stuffed animal has a story — for example, Gerd here is an adventurous little dragon who doesn't like storms and loves to play outside.
+Everything you buy there has a purpose. Books teach kids how to read and count. Every stuffed animal has a story — 
+
+![text](img/gerd.png)
+for example, Gerd here is an adventurous little dragon who doesn't like storms and loves to play outside.
 
 It was a bit challenging at first. I had to define the brand values, which can sound abstract to customers. Telling them you have products with good quality, great materials, and benefits that support quality time together sounds nice — until you actually have to communicate it to them.
 
