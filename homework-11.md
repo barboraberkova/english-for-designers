@@ -34,7 +34,7 @@ Before drawing a single line, I had to understand exactly how people interact wi
 
 Our conversatiosn were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
 
-![image containing infromatiuon about gallery visits, technical relationship and app expectations](img/respondents.png)
+![image containing infromatiuon about gallery visits, technical relationship and app expectations](img/respondents-2.png)
 ## Starting on a Blank Canvas
 process
 
