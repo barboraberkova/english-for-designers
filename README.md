@@ -37,7 +37,7 @@ I believe that you mind find some of the things we did in class interesting, so 
 
 #### Semester 1 (Winter)❄️
 
-* [Homework 1: Bespoke Character](homework-1.md)
+* [Homework 1: Bespoke Character](homework-1)
 * [Homework 2: Alt text & Type Specimen](homework-2)
 * [Homework 3: Metadata and Preview Image Variations](homework-3)
 * [Homework 4: Presentation: What do I do?](homework-4)
