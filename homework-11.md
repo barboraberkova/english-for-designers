@@ -30,7 +30,7 @@ To solve the dual frustration of logistical chaos and gallery navigation, I desi
 
 I translated these initial conceptual ideas into low-fidelity layout sketches. This process helped me before committing to high-fidelity UI elements.
 
-- image sketches
+![pencil sketches of wireframes and app map](img/sketches.png)
 
 From these sketches, I came up with the core elements that would hold the whole experience together:
 
