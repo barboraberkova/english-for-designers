@@ -4,11 +4,12 @@
 
 ![text introducing the goal and roles on a project](img/introduction.png)
 
+
 ## Meet the hero
-Let me briefly introduce the real hero this is all about, an Australian artist Shaun Tan.
+To understand the audience, you have to understand teh artist - an australian artist Shaun Tan.
+Shaun’s art makes you feel like a 'lost thing' in a vast, beautiful world. My goal was to ensure the technology didn't disrupt that emotional state, but enhanced it.
 
-
-[I want to read more about shaun Tan!](about-shaun.md)
+If you aren't familiar with his work, you can [explore more about him](about-shaun.md) to see the visual anchor to this entire system.
 
 ### Feeling Like a “Lost Thing” /Im feeling like a lost thing, and that’s a problem!
 (problem intro)
