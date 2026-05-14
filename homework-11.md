@@ -80,6 +80,8 @@ I chose SF Pro Display as my primary typeface for its neutral character and simp
 
 ![showcase of app components](img/components.png)
 
+![showcase of app components](img/components-2.png)
+
 image of typography
 image of assets
 
