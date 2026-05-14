@@ -8,7 +8,7 @@
 Let me briefly introduce the real hero this is all about, an Australian artist Shaun Tan.
 
 
-[Want do read more?](about-shaun.md)
+[I want to read more about shaun Tan!](about-shaun.md)
 
 ### Feeling Like a “Lost Thing” /Im feeling like a lost thing, and that’s a problem!
 (problem intro)
