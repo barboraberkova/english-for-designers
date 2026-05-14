@@ -5,7 +5,7 @@ title: "Homework 12"
 
 ### Storytelling notes English 
 
-![text](img/hi-slide.png)
+![A profile view of a furry, sage green plush dragon with pink scales looking toward the text, 'Hi!'. To the side is a small blue stuffed animal anteater. The image is set against a white background with a light gray pattern of illustrated anteaters.](img/hi-slide.png)
 Hi!
 
 ![text](img/this-is-me.png)
