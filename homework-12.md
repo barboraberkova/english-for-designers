@@ -53,8 +53,10 @@ To create ubba, I couldn't copy the past — I had to design for the future and 
 ![text](img/10-minutes.png)
 Ten minutes isn't a lot of time to introduce something I've been working on for the past year. But I'll give you at least a short overview and introduce the concept.
 
+![text](img/ubba-cover.png)
 Ubba is a brand for children. I could say it's a toy store, but that isn't quite right.
 
+![text](img/ubba-store.png)
 Ubba is a reaction to today's fast-moving world, full of information and things. Toy stores are filled with overpriced plastic toys. Internet stores offer endless choices of toys and other products, and none of them have any added benefit. They're just pieces of plastic.
 
 Ubba wants to give children a beautiful and healthy childhood full of stories, experiences, ideas, and discovery — because childhood is the most precious thing a person has in life.
