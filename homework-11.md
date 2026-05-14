@@ -11,7 +11,7 @@ Shaun’s art makes you feel like a 'lost thing' in a vast, beautiful world. My 
 
 If you aren't familiar with his work, you can [explore more about him](about-shaun.md) to see the visual anchor to this entire system.
 
-## Feeling Like a “Lost Thing” /Im feeling like a lost thing, and that’s a problem!
+## I'm feeling like a lost thing, and that’s a problem!
 (problem intro)
 what needed to be solved:
 
@@ -22,8 +22,10 @@ You finally arrived to the gallery but another problem occures. It can be annoyi
 ## Here comes the savior: the designer!
 how I decided to solve the problem
 
-I came up with the idea of creating an app...
-I solved the frustration problem by creating an app, that tells you all the information needed and even more! (It navigates you through the gallery as you wander around.)
+To solve the dual frustration of logistical chaos and gallery navigation, I designed a minimal, real-time companion application. Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
+
+> "A busy interface is the enemy of a peaceful gallery visit. My goal was to make the app’s UI clean so that the focus remains entirely on the art."
+
 
 image of the sketches
 
