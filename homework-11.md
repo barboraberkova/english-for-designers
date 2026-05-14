@@ -54,7 +54,7 @@ From these sketches, I came up with the core elements that would hold the whole 
 
 ![wireframes of an app](img/wireframes.png)
 
-## Choosing the Right Paints (still part of the process) /from sketches to colors/paints
+### Choosing the Right Paints (still part of the process) /from sketches to colors/paints
 
 - basically painting with the colors
 - assest, colors etc.
