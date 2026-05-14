@@ -78,7 +78,7 @@ I chose SF Pro Display as my primary typeface for its neutral character and simp
 
 - A Quiet Companion: By stripping away unnecessary visual fluff, I ensured the app remains a humble frame for Shaun Tan’s surrealist masterpieces.
 
-
+![showcase of app components](img/components.png)
 
 image of typography
 image of assets
