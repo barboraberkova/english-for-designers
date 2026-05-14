@@ -24,15 +24,22 @@ You finally arrived to the gallery but another problem occures. It can be annoyi
 ## Here comes the savior: the designer!
 how I decided to solve the problem
 
-To solve the dual frustration of logistical chaos and gallery navigation, I designed a minimal, real-time companion application. Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
+To solve the dual frustration of logistical chaos and gallery navigation, I decided to design a minimal, real-time companion application. Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
 
 > "A busy interface is the enemy of a peaceful gallery visit. My goal was to make the app’s UI clean so that the focus remains entirely on the art."
+
+## Stepping into the User's Shoes
+Before drawing a single line, I had to understand exactly how people interact with cultural spaces such as galleries and museums. I reached out to my respondents and asked them about their habits, expectations and frustrations when using technologies. 
+
+Our conversatiosn were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
+
+![image containing infromatiuon about gallery visits, technical relationship and app expectations](img/respondents.png)
+## Starting on a Blank Canvas /sketching process
+process
 
 I translated these initial conceptual ideas into low-fidelity layout sketches. This process helped me before committing to high-fidelity UI elements.
 
 ![pencil sketches of wireframes and app map](img/sketches.png)
-
-From these sketches, I came up with the core elements that would hold the whole experience together:
 
 From these sketches, I came up with the core elements that would hold the whole experience together:
 
@@ -45,10 +52,6 @@ From these sketches, I came up with the core elements that would hold the whole 
     * Hands-free navigation designed to guide you smoothly from room to room.
 * **The Invisible UI Framework:** Keeping the digital interface minimal so it doesn't compete with the physical artwork.
 
-
-
-## Starting on a Blank Canvas /sketching process
-process
 
 - respondents (first thing first)
 - wireframes
