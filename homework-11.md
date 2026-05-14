@@ -85,7 +85,8 @@ the final look
 key takeaway:what I learned
 outcome if we don’t have the data/what I learned
 
-prototype link
+[Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=189-8061&t=N1YZQwhhy3OGCW7U-1)
+
 [View this case study in Figma ](https://www.figma.com/proto/kths0MtLtwNWRim2aIUroV/English-for-Designers?node-id=287-2648&t=xI8cHyuwxh3LRaBp-1)
  
 CTA
