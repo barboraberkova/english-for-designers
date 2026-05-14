@@ -4,7 +4,7 @@
 
 ![text introducing the goal and roles on a project](img/introduction.png)
 
-![three phones with a gallery app](img/mobiles.png)
+![three phones with a gallery app](img/mobiles-app.png)
 [Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1)
 ## Meet the hero
 To understand the audience, you have to understand teh artist - an australian artist Shaun Tan.
