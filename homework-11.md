@@ -84,6 +84,12 @@ image of typography
 image of assets
 
 ## How I painted the final artwork
+Once I created all the components for the app, I applied it to my wireframes. That's when the blank canvas started to look like the real painting.
+
+The final design of the app is clean and provides following pages:
+
+### Sign In
+![sign in or log in window](img/Registration.png)
 the final design, solution
 what it provides
 - tickets storage
@@ -92,7 +98,7 @@ what it provides
 
 guide through the images and inroduce the app
 
-![sign in or log in window](img/Registration.png)
+
 
 The app provides 
 
