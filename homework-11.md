@@ -5,6 +5,8 @@
 ![text introducing the goal and roles on a project](img/introduction.png)
 
 
+images of the app
+[Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1)
 ## Meet the hero
 To understand the audience, you have to understand teh artist - an australian artist Shaun Tan.
 Shaun’s art makes you feel like a 'lost thing' in a vast, beautiful world. My goal was to ensure the technology didn't disrupt that emotional state, but enhanced it.
