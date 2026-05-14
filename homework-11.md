@@ -47,6 +47,10 @@ I started by defining the.../as I set what the features will be... from drawing 
 applying what I set
 
 image of colors
+# The paints I used
+![painting of colors](img/colors.png)
+
+![painting of neutral colors](img/neutral-colors.png)
 image of typography
 image of assets
 
