@@ -86,7 +86,7 @@ key takeaway:what I learned
 outcome if we don’t have the data/what I learned
 
 prototype link
-View this case study in Figma https://www.figma.com/proto/kths0MtLtwNWRim2aIUroV/English-for-Designers?node-id=287-2648&t=xI8cHyuwxh3LRaBp-1
+[View this case study in Figma ](https://www.figma.com/proto/kths0MtLtwNWRim2aIUroV/English-for-Designers?node-id=287-2648&t=xI8cHyuwxh3LRaBp-1)
  
 CTA
 Let’s talk. There’s more than a UXUI painting I can do for you!
