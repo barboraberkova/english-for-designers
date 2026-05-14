@@ -27,7 +27,10 @@ browsing through books,
 
 building Legos, talking to imaginary friends, and creating stories.
 
-Kids need other kids to play with, and my parents made sure I had that. I was surrounded by friends, going on trips, playing in the woods, and just being kids. Our parents created an imaginary giant called Františ and his little dwarf friend Bažináč. They were constantly preparing games for us. One day we'd go on a treasure hunt; the next we'd just wander through the woods collecting pinecones and leaves. We had no phones. We were present for each other. My childhood was the best time of my life and shaped me into the person I am today.
+![text](img/friends.png)
+Kids need other kids to play with, and my parents made sure I had that. I was surrounded by friends, going on trips, playing in the woods, and just being kids. 
+![text](img/friends-games.png)
+Our parents created an imaginary giant called Františ and his little dwarf friend Bažináč. They were constantly preparing games for us. One day we'd go on a treasure hunt; the next we'd just wander through the woods collecting pinecones and leaves. We had no phones. We were present for each other. My childhood was the best time of my life and shaped me into the person I am today.
 
 Then my parents gave me the chance to study abroad, which opened many doors. I gained an American family: my American dad Jessie and my American mom Sarah. Jessie pushed me and convinced me to study graphic design. Thanks to him, I started building a portfolio. I wanted to get into the University of Creative Communication to study graphic design. My parents supported me and gave me the chance to study there. School taught me a lot. It opened more doors.
 
