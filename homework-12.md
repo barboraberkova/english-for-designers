@@ -98,12 +98,16 @@ I came up with the concept. I created the designs for everything. I designed the
 ![text](img/ubba-girl-gerd.png)
 I might not change the world. But I at least want to make an impact on someone else's life. That's why I created ubba.
 
+![text](img/childhood-photo.png)
 My childhood inspired me to create ubba. I want to give other kids the experience I had — or at least help parents give their kids a little piece of what I had.
-
-Ubba is my bachelor's thesis. Ubba is my business plan. But my parents are the story behind ubba, even if they don't realize it. They shaped me into who I am today. So ubba is a thank-you note.
-
+![text](img/what-is-ubba.png)
+Ubba is my bachelor's thesis. Ubba is my business plan. 
+![text](img/thank-you-ubba.png)
+But my parents are the story behind ubba, even if they don't realize it. They shaped me into who I am today. So ubba is a thank-you note.
+![text](img/childhood.png)
 So that's my story. Thank you for listening to my talk — but more importantly, thanks to my parents for raising a child the best way they could.
 
 There's a lot of work to come, but I hope that one day you'll come to the ubba store to say hi with your kids and buy something for yourself.
 
+![text](img/contact.png)
 For now, if you'd like to know more about ubba or my other projects, reach out. We can work together.
