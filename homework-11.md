@@ -35,7 +35,7 @@ Before drawing a single line, I had to understand exactly how people interact wi
 Our conversatiosn were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
 
 ![image containing infromatiuon about gallery visits, technical relationship and app expectations](img/respondents.png)
-## Starting on a Blank Canvas /sketching process
+## Starting on a Blank Canvas
 process
 
 With these user expectations, I translated these initial conceptual ideas into low-fidelity layout sketches. This process helped me before committing to high-fidelity UI elements.
@@ -55,18 +55,22 @@ From these sketches, I came up with the core elements that would hold the whole 
 
 ![wireframes of an app](img/wireframes.png)
 
-### Choosing the Right Paints (still part of the process) /from sketches to colors/paints
+### Choosing the Right Paints
 
-- basically painting with the colors
-- assest, colors etc.
-I started by defining the.../as I set what the features will be... from drawing the "sketches" of the app to real paints
-applying what I set
+Once the structure was set and the wires were connected, it was time to paint the interface of the app. I moved from pencil sketches and low-fidelity wireframes to defining a high-fidelity visual language. This wasn't just about picking the right colors, it was about creating a digital enviroment that felt intuitive, ensuring the UI remained a quiet frame that never competed with the artwork for the user's attention.
 
-image of colors
 #### The paints I used
-![painting of colors](img/colors.png)
+I chose black, white, and grey as the primary colors to ensure the interface never interrupted the paintings; instead, it provides a sharp, sophisticated contrast that lets the art breathe.
 
 ![painting of neutral colors](img/neutral-colors.png)
+
+For the accent paints, I chose sage green, blue and a vibrant pink. They act as startegic visual cues that guide the user's journey, much like a painter leads an audience across canvas.
+![painting of colors](img/colors.png)
+
+
+
+
+
 image of typography
 image of assets
 
