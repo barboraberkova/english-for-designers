@@ -8,11 +8,11 @@ title: "Homework 12"
 ![A profile view of a furry, sage green plush dragon with pink scales looking toward the text, 'Hi!'. To the side is a small blue stuffed animal anteater. The image is set against a white background with a light gray pattern of illustrated anteaters.](img/hi-slide.png)
 Hi!
 
-![text](img/this-is-me.png)
+![A portrait of a young girl with her hair in two ponytails, wearing sunglasses, a white shirt, and a necktie. She is posed with her hands folded and a serious expression. The photo is set against a background featuring a light gray pattern of illustrated anteaters.](img/this-is-me.png)
 This is me. The head of design at KeySpace.
 
 
-![text](img/only-child-slide.png)
+![A photo of a young girl wearing a blue raincoat and yellow rain boots. She is standing playfully in a rain puddle. The image is set against a background featuring a light gray pattern of illustrated anteaters.](img/only-child-slide.png)
 I grew up as an only child. It wasn't intentional. I was supposed to have siblings and play with them. But life had other plans, and I'm a person who isn't a sister to anyone.
 
 
