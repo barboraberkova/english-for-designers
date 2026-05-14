@@ -50,6 +50,7 @@ So I came up with the idea to create ubba.
 
 To create ubba, I couldn't copy the past — I had to design for the future and for a different generation.
 
+![text](img/10-minutes.png)
 Ten minutes isn't a lot of time to introduce something I've been working on for the past year. But I'll give you at least a short overview and introduce the concept.
 
 Ubba is a brand for children. I could say it's a toy store, but that isn't quite right.
