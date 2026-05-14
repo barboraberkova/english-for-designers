@@ -32,9 +32,16 @@ I translated these initial conceptual ideas into low-fidelity layout sketches. T
 
 From these sketches, I came up with the core elements that would hold the whole experience together:
 
-* **The Reliable Info Hub:** gallery opening hours, entry updates, and ticket verification to eliminate pre-visit anxiety.
-* **The Audio Compass:** Providing a screen-free navigation system that talks to you as you wander through the exhibition rooms.
-* **The Invisible UI Framework:** Keeping layouts intentionally stripped back, monochromatic, and clean so Shaun Tan's vibrant paintings take center stage.
+From these sketches, I came up with the core elements that would hold the whole experience together:
+
+* **The Reliable Info Hub:** Eliminating pre-visit anxiety by centralizing all logistics in one clear place. 
+    * Real-time gallery opening hours and an updated list of upcoming exhibitions and events
+    * A calendar of events paired with an integrated ticket reservation system and digital ticket storage.
+    * Information about Shaun Tan and the stories behind his paintings.
+* **The Audio Compass:** Providing an intuitive, screen-free alternative to standard museum layouts.
+    * An interactive audio guide that talks to you as you wander through the gallery.
+    * Hands-free navigation designed to guide you smoothly from room to room.
+* **The Invisible UI Framework:** Keeping the digital interface minimal so it doesn't compete with the physical artwork.
 
 
 
