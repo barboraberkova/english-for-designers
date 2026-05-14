@@ -94,7 +94,8 @@ The final design of the app is clean and provides following pages:
 ![sign in or log in window](img/Registration.png)
 
 Once you finish the registration or you sign in, teh app takes you to the home page.
-![homepage of an app](img/home.png)
+
+![showcase of app pages](img/screens.png)
 
 the final design, solution
 what it provides
