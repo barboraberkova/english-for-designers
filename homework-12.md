@@ -59,7 +59,11 @@ Ubba is a brand for children. I could say it's a toy store, but that isn't quite
 ![text](img/ubba-store.png)
 Ubba is a reaction to today's fast-moving world, full of information and things. Toy stores are filled with overpriced plastic toys. Internet stores offer endless choices of toys and other products, and none of them have any added benefit. They're just pieces of plastic.
 
-Ubba wants to give children a beautiful and healthy childhood full of stories, experiences, ideas, and discovery — because childhood is the most precious thing a person has in life.
+![text](img/ubba-logo.png)
+Ubba wants to give children a beautiful and healthy childhood full of stories, experiences, ideas, and discovery 
+
+![text](img/childhood-is-precious.png)
+— because childhood is the most precious thing a person has in life.
 
 Ubba helps parents choose the right products for their kids. Ubba offers sustainable:
 
@@ -67,6 +71,7 @@ Ubba helps parents choose the right products for their kids. Ubba offers sustain
 - Games
 - Books
 
+![text](img/ubba-photos.png)
 I created ubba as a magical place.
 
 Everything you buy there has a purpose. Books teach kids how to read and count. Every stuffed animal has a story — for example, Gerd here is an adventurous little dragon who doesn't like storms and loves to play outside.
