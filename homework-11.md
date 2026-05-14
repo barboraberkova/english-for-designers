@@ -67,7 +67,16 @@ I chose black, white, and grey as the primary colors to ensure the interface nev
 For the accent paints, I chose sage green, blue and a vibrant pink. They act as startegic visual cues that guide the user's journey, much like a painter leads an audience across canvas.
 ![painting of colors](img/colors.png)
 
+#### Mixing the Palette
+After defining the colors, I focused on the interface's structural elements to ensure the experience remained both clean and highly functional.
 
+I chose SF Pro Display as my primary typeface for its neutral character and simplicity. It doesn't demand attention, it is easy to read so it is a perfect combination of what clean design requires.
+
+- Legibility as a Priority: SF Pro Display ensures every word is readable at a glance, even in the low-light environment of a gallery.
+
+- Functional Minimalism: Every button and asset was designed to be intuitive, allowing the user to navigate with zero learning curve.
+
+- A Quiet Companion: By stripping away unnecessary visual fluff, I ensured the app remains a humble frame for Shaun Tan’s surrealist masterpieces.
 
 
 
