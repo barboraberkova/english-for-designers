@@ -82,7 +82,9 @@ Everything you buy there has a purpose. Books teach kids how to read and count. 
 ![text](img/gerd.png)
 for example, Gerd here is an adventurous little dragon who doesn't like storms and loves to play outside.
 
+![text](img/values.png)
 It was a bit challenging at first. I had to define the brand values, which can sound abstract to customers. Telling them you have products with good quality, great materials, and benefits that support quality time together sounds nice — until you actually have to communicate it to them.
+![text](img/question-mark.png)
 
 So I came up with the bear family. The bear family represents the brand values and communicates them through their day-to-day life. They raise their kids in line with the Montessori approach and respectful parenting.
 
