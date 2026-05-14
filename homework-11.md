@@ -37,7 +37,7 @@ Our conversatiosn were about the frequency of their gallery visits, where they l
 ## Starting on a Blank Canvas /sketching process
 process
 
-I translated these initial conceptual ideas into low-fidelity layout sketches. This process helped me before committing to high-fidelity UI elements.
+With these user expectations, I translated these initial conceptual ideas into low-fidelity layout sketches. This process helped me before committing to high-fidelity UI elements.
 
 ![pencil sketches of wireframes and app map](img/sketches.png)
 
@@ -52,15 +52,7 @@ From these sketches, I came up with the core elements that would hold the whole 
     * Hands-free navigation designed to guide you smoothly from room to room.
 * **The Invisible UI Framework:** Keeping the digital interface minimal so it doesn't compete with the physical artwork.
 
-
-- respondents (first thing first)
-- wireframes
-- key features
-
-- basically drawing with a pencil
-
-image of respondents and their needs
-image of wireframes
+![wireframes of an app](img/wireframes.png)
 
 ## Choosing the Right Paints (still part of the process) /from sketches to colors/paints
 
