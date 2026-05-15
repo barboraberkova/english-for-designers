@@ -28,11 +28,10 @@ If you aren't familiar with his work, you can [explore more about him](about-sha
 
 It's Saturday. It's raining. You remember your favorite gallery has 
 a new exhibition, so you open their website — and find nothing useful. 
-You go anyway. It's closed. No hours, no warning, no way to know.
+You go anyway. It's closed. No opening hours, no warning, no way to know.
 
-You finally make it inside on Sunday. And then a second problem starts: 
-you don't know where to go. You wander, you ask a guard, you give up 
-and circle back to the entrance.
+You finally make it inside on Sunday. And then a second problem occurs: 
+you don't know where to go. You wander, you ask a guard, you give up and circle back to the entrance.
 
 This is the gap I wanted to close. Not one frustration, but two — **before the visit** and **during the visit** — stitched together by a single app.
 
