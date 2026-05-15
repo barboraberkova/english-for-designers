@@ -50,6 +50,7 @@ Before drawing a single line, I had to understand how people actually behave aro
 Our conversations were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
 
 ![image containing information about gallery visits, technical relationship and app expectations](img/respondents-2.png)
+*Respondent preferences*
 
 Three insights changed the direction of the project:
 
@@ -65,6 +66,7 @@ Three insights changed the direction of the project:
 With these user expectations, I started sketching. Paper first.
 
 ![pencil sketches of wireframes and app map](img/sketches.png)
+*Pencil sketches*
 
 From these sketches, I came up with the core elements that would hold the whole experience together:
 
@@ -73,9 +75,10 @@ From these sketches, I came up with the core elements that would hold the whole 
 - **The invisible frame** — a UI quiet enough that the artwork stays the loudest thing in the room.
 
 ![app map](img/app-map.png)
+*Map of the app*
 
 ![wireframes of an app](img/wireframes.png)
-
+*Wireframes*
 ### Choosing the right paints
 
 Once the structure was set and the wires were connected, it was time to paint the interface of the app. I moved from pencil sketches and low-fidelity wireframes to defining a high-fidelity visual language. This wasn't just about picking the right colors, it was about creating a digital environment that felt intuitive, ensuring the UI remained a quiet frame that never competed with the artwork for the user's attention.
@@ -84,10 +87,12 @@ Once the structure was set and the wires were connected, it was time to paint th
 Black, white, and grey form the primary palette. They don't compete with the art; they hold it and let the art breathe.
 
 ![painting of neutral colors](img/neutral-colors.png)
+*Neutral colors*
 
 ### The accents
 Sage green, soft blue, and a vibrant pink act as wayfinding cues — used sparingly, only where the user needs to be drawn forward.
 ![painting of colors](img/colors.png)
+*Accent colors*
 
 ### Mixing the palette
 After defining the colors, I focused on the interface's structural elements to ensure the experience remained both clean and highly functional.
@@ -97,8 +102,10 @@ SF Pro Display does the typographic work: legible in low gallery light, neutral 
 Every button and asset was designed to be intuitive, allowing the user to navigate with zero learning curve.
 
 ![showcase of app components](img/components.png)
+*Application components*
 
 ![showcase of app components](img/components-2.png)
+*Application components*
 
 
 ## The final painting
@@ -108,12 +115,14 @@ The final design of the app is clean and organises everything around three flows
 
 ### Sign In
 ![sign in or log in window](img/Registration.png)
+*Registration window*
 
 ### Sketching the visit
 The home screen leads with the Exhibition of the Week, followed by a list of ongoing exhibitions. Tap any exhibition and you land in the calendar, where you pick a date, reserve your slot, and buy the ticket without leaving the flow.
 
 A hamburger menu in the top corner holds everything you might need before you arrive: your tickets, information about Shaun Tan, contact details, the audio guide, the virtual gallery map, ongoing exhibitions, and a Czech/English language toggle.
 ![showcase of app pages](img/home-tickets.png)
+*Showcase of the pages*
 
 ### Navigating the gallery
 
@@ -125,6 +134,7 @@ Once you're inside, the **bottom navigation bar** becomes the center of the expe
 - **Profile** — your tickets, favorites, saved files, reviews, and settings, all in one place.
 
 ![app screens of audioguide, map and a scan](img/audio-map-scan.png)
+*Audioguide, virtual gallery-map, images scan*
 
 
 ## What I learned from the painting?
