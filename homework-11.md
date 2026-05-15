@@ -21,7 +21,7 @@ That quietness became my design constraint. The app couldn't shout. It had to si
 
 If you aren't familiar with his work, you can [explore more about him](about-shaun.md) to see the visual anchor to this entire system.
 
-![showcase of Shaun Tan paintings](img/shaun-tan-intro.png)
+![Four Shaun Tan paintings: a shelf lined with tiny potted plants flanking an oversized teacup; a small cicada standing alone among scattered papers; a giant orange parrot's head filling a room while a tiny man sits on a chair facing it; and a close-up pencil sketch of a small horned creature peeking out from the strap in a car.](img/shaun-tan-intro.png)
 *Shaun Tan's paintings*
 
 ## I'm feeling like a lost thing, and that's a problem!
