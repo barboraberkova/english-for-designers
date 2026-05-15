@@ -58,20 +58,15 @@ Three insights changed the direction of the project:
 
 ## Starting on a Blank Canvas
 
-With these user expectations, I translated these initial conceptual ideas into low-fidelity layout sketches. This process helped me before committing to high-fidelity UI elements.
+With these user expectations, I started sketching. Paper first.
 
 ![pencil sketches of wireframes and app map](img/sketches.png)
 
 From these sketches, I came up with the core elements that would hold the whole experience together:
 
-* **The Reliable Info Hub:** Eliminating pre-visit anxiety by centralizing all logistics in one clear place. 
-    * Real-time gallery opening hours and an updated list of upcoming exhibitions and events
-    * A calendar of events paired with an integrated ticket reservation system and digital ticket storage.
-    * Information about Shaun Tan and the stories behind his paintings.
-* **The Audio Compass:** Providing an intuitive, screen-free alternative to standard museum layouts.
-    * An interactive audio guide that talks to you as you wander through the gallery.
-    * Hands-free navigation designed to guide you smoothly from room to room.
-* **The Invisible UI Framework:** Keeping the digital interface minimal so it doesn't compete with the physical artwork.
+- **The info hub** — everything you need *before* arriving: opening hours, ticket reservation, event calendar, digital tickets.
+- **The audio compass** — a hands-free guide that talks you through rooms at your own pace, with short labels by default and longer stories when you want them.
+- **The invisible frame** — a UI quiet enough that the artwork stays the loudest thing in the room.
 
 ![app map](img/app-map.png)
 
