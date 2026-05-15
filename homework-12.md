@@ -98,7 +98,7 @@ I came up with the concept. I created the designs for everything. I designed the
 ![A small girl with curly hair sits on a low bed in her room, holding the green Gerd plush dragon in her lap with both hands, her head bent gently toward him. Beside her on the bed sits a plush otter king in a teal crown and red dress. Soft natural light, a wicker toy basket, and a mushroom-and-bug tapestry fill the background.](img/ubba-girl-gerd.png)
 I might not change the world. But I at least want to make an impact on someone else's life. That's why I created ubba.
 
-![text](img/childhood-photo.png)
+![Three smiling young children — a small girl in an orange hoodie and yellow skirt, a boy in a red sweatshirt with a white "8," and a younger boy in an olive ribbed sweater — sit close together on a low stone wall in front of a Czech country house with a dark wooden gable. Trees and hedges fill the background. They look genuinely happy.](img/childhood-photo.png)
 My childhood inspired me to create ubba. I want to give other kids the experience I had — or at least help parents give their kids a little piece of what I had.
 ![text](img/what-is-ubba.png)
 Ubba is my bachelor's thesis. Ubba is my business plan. 
