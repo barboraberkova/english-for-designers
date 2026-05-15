@@ -15,7 +15,7 @@
 *Application screens*
 
 ## Meet the hero
-To understand the audience, you have to understand teh artist. Shaun Tan is an Australian illustrator whose work feels like being a small, lost thing in a vast and beautiful world. His paintings are quiet, surreal, and full of detail you only notice on the second look.
+To understand the audience, you have to understand the artist. Shaun Tan is an Australian illustrator whose work feels like being a small, lost thing in a vast and beautiful world. His paintings are quiet, surreal, and full of detail you only notice on the second look.
 
 That quietness became my design constraint. The app couldn't shout. It had to sit beside the art, not on top of it.
 
@@ -24,11 +24,15 @@ If you aren't familiar with his work, you can [explore more about him](about-sha
 ![showcase of Shaun Tan paintings](img/shaun-tan-intro.png)
 *Shaun Tan's paintings*
 
-## I'm feeling like a lost thing, and that’s a problem!
+## I'm feeling like a lost thing, and that's a problem!
 
-It's a weekend and it's raining outside. You don't want to sit on a couch and want to do something. You heard your favorite gallery has an interesting exhibition. You open their website and learn nothing. It is a mess. You try your luck and go to the gallery. It's closed. No information on the website. Annoying isn't it?
+It's Saturday. It's raining. You remember your favourite gallery has 
+a new exhibition, so you open their website — and find nothing useful. 
+You go anyway. It's closed. No hours, no warning, no way to know.
 
-You finally arrived to the gallery but another problem occurs. It can be annoying when you're in a gallery wanting to see your favorite artist and suddenly you don't know where to go. The app helps visitors find their way around easily with no need asking or being lost. It has a navigation system that can talk to you or you can follow the navigation on your screen as you wander through rooms.
+You finally make it inside on Sunday. And then a second problem starts: 
+you don't know where to go. You wander, you ask a guard, you give up 
+and circle back to the entrance.
 
 This is the gap I wanted to close. Not one frustration, but two — **before the visit** and **during the visit** — stitched together by a single app.
 
@@ -40,7 +44,7 @@ Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intri
 
 > "A busy interface is the enemy of a peaceful gallery visit. The app's job is to disappear once you've found what you need."
 
-## Stepping into the User's Shoes
+## Stepping into the user's shoes
 Before drawing a single line, I had to understand how people actually behave around cultural spaces such as galleries and museums and their apps. I reached out to my respondents and asked them about their habits, expectations and frustrations when using technologies. 
 
 Our conversations were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
@@ -56,7 +60,7 @@ Three insights changed the direction of the project:
 | **Visual style** | "I like apps that get out of the way, like Strava or Zalando." | An "invisible UI" — neutral palette, minimal chrome, art front and centre. |
 
 
-## Starting on a Blank Canvas
+## Starting on a blank canvas
 
 With these user expectations, I started sketching. Paper first.
 
@@ -72,7 +76,7 @@ From these sketches, I came up with the core elements that would hold the whole 
 
 ![wireframes of an app](img/wireframes.png)
 
-### Choosing the Right Paints
+### Choosing the right paints
 
 Once the structure was set and the wires were connected, it was time to paint the interface of the app. I moved from pencil sketches and low-fidelity wireframes to defining a high-fidelity visual language. This wasn't just about picking the right colors, it was about creating a digital environment that felt intuitive, ensuring the UI remained a quiet frame that never competed with the artwork for the user's attention.
 
@@ -85,7 +89,7 @@ Black, white, and grey form the primary palette. They don't compete with the art
 Sage green, soft blue, and a vibrant pink act as wayfinding cues — used sparingly, only where the user needs to be drawn forward.
 ![painting of colors](img/colors.png)
 
-#### Mixing the Palette
+### Mixing the palette
 After defining the colors, I focused on the interface's structural elements to ensure the experience remained both clean and highly functional.
 
 SF Pro Display does the typographic work: legible in low gallery light, neutral enough to never call attention to itself.
@@ -105,7 +109,7 @@ The final design of the app is clean and organises everything around three flows
 ### Sign In
 ![sign in or log in window](img/Registration.png)
 
-### Planning the visit (rename it)
+### Sketching the visit
 The home screen leads with the Exhibition of the Week, followed by a list of ongoing exhibitions. Tap any exhibition and you land in the calendar, where you pick a date, reserve your slot, and buy the ticket without leaving the flow.
 
 A hamburger menu in the top corner holds everything you might need before you arrive: your tickets, information about Shaun Tan, contact details, the audio guide, the virtual gallery map, ongoing exhibitions, and a Czech/English language toggle.
