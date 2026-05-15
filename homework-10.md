@@ -1,6 +1,6 @@
 # Today I learned
 
-![presentation slide with photos of coffee](img/coffee-slide.png)
+![A collage of four coffee shop photos: two latte-art cappuccinos on a wooden tray, an iced coffee with a chocolate pastry on a café table, an overhead shot of a latte and espresso on weathered wood, and an iced latte beside a hot one on a slatted outdoor table.](img/coffee-slide.png)
 We're online all the time. I've been thinking lately, and I want you to think about one thing too:
 When was the last time you did something for yourself? When did you do something because it excited you or made you feel good?
 I mean, look at it — you went on a coffee date, and before you drank your first sip of that overpriced coffee, you took a picture. I saw it in your highlights later. Were you even there? Were you present for yourself? Or did you, again, share the coffee with the whole world just to show everyone how happy you are and how perfect your life is?
