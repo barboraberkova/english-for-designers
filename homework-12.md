@@ -19,15 +19,15 @@ I grew up as an only child. It wasn't intentional. I was supposed to have siblin
 ![A toddler with messy brown hair sits in a white plastic garden chair, holding a pink toy phone up to her ear. She wears a yellow sweater under a colorful plastic bib. A green garden is blurred behind her.](img/pink-phone.png)
 I grew up with no phone. Well, only a pink one I could use to call a magic princess in my imaginary world. No phones, no iPads. My parents gave me the chance to see the world, but also the space to be bored.
 
-![text](img/painting.png)
+![A young girl with braided hair leans over a paper plate, painting carefully with a small brush. Bright yellow paint is smeared across the plate. She wears a yellow shirt under a red apron printed with cartoon characters.](img/painting.png)
 That gives you a lot of space to be a creative child — drawing a lot,
 
-![text](img/reading.png)
+![A young girl with her hair in a bun sits on a wooden chair in a sunlit room, looking down at an open picture book in her lap. Warm afternoon light falls across her red sweater and the pine furniture behind her.](img/reading.png)
 browsing through books,
 
 building Legos, talking to imaginary friends, and creating stories.
 
-![text](img/friends.png)
+![A group of adults and children climbing a steep grassy path toward a Czech sign reading "Vstup na vlastní nebezpečí" (Entry at your own risk). Some of the children wear medieval costumes — chainmail hoods and red-and-white tunics — alongside hikers in modern clothing with backpacks. Wildflowers grow along the trail.](img/friends.png)
 Kids need other kids to play with, and my parents made sure I had that. I was surrounded by friends, going on trips, playing in the woods, and just being kids. 
 ![text](img/friends-games.png)
 Our parents created an imaginary giant called Františ and his little dwarf friend Bažináč. They were constantly preparing games for us. One day we'd go on a treasure hunt; the next we'd just wander through the woods collecting pinecones and leaves. We had no phones. We were present for each other. My childhood was the best time of my life and shaped me into the person I am today.
