@@ -131,6 +131,9 @@ This was a school concept project, so I don't have install numbers or conversion
 2. **It was my first app, and the format taught me more than the topic.** Designing for a phone screen is its own discipline — thumb reach, one-handed use, the way a hamburger menu has to earn its place. None of that shows up in a poster or a website. Every constraint became a lesson.
 3. **Less really is more — but only when you mean it.** Stripping things out is easy. Stripping things out *on purpose*, knowing exactly why each remaining element stays, is the harder version. The pink accent only works because everything around it is quiet.
 
+<video src="img/gallery-app-video.mp4" controls width="100%">
+  Your browser does not support this video format. <a href="img/gallery-app-video.mp4">Download the video</a> instead.
+</video>
 
 
 [Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1)
