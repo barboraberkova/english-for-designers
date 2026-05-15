@@ -109,9 +109,9 @@ Every button and asset was designed to be intuitive, allowing the user to naviga
 
 
 ## The final painting
-With components in place, the wireframes came alive. Three flows do the heavy lifting:
-
-The final design of the app is clean and organises everything around three flows — one for planning the visit, one for navigating it, and one for remembering it.
+With components in place, the wireframes came alive — clean, quiet, 
+and organised around the moments that actually matter to a gallery 
+visitor.
 
 ### Sign In
 ![sign in or log in window](img/Registration.png)
