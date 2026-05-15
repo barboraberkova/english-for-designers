@@ -109,7 +109,7 @@ The final design of the app is clean and organises everything around three flows
 The home screen leads with the Exhibition of the Week, followed by a list of ongoing exhibitions. Tap any exhibition and you land in the calendar, where you pick a date, reserve your slot, and buy the ticket without leaving the flow.
 
 A hamburger menu in the top corner holds everything you might need before you arrive: your tickets, information about Shaun Tan, contact details, the audio guide, the virtual gallery map, ongoing exhibitions, and a Czech/English language toggle.
-![showcase of app pages](img/screens.png)
+![showcase of app pages](img/home-tickets.png)
 
 the final design, solution
 what it provides
