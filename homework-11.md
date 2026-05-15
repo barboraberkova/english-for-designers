@@ -120,40 +120,23 @@ Once you're inside, the **bottom navigation bar** becomes the center of the expe
 - **Scan a painting** — point your camera at any work and pull up its story, materials, and the artist's notes.
 - **Profile** — your tickets, favorites, saved files, reviews, and settings, all in one place.
 
-the final design, solution
-what it provides
-- tickets storage
-- audio compass
-- clean design
-
-guide through the images and inroduce the app
+image
 
 
+## What I learned from the painting?
 
-The app provides 
+This was a school concept project, so I don't have install numbers or conversion rates to point to. What I have instead is three things I'll carry into the next project:
 
-tickets
-navigation--> being lost in the labyrinth
-since galleries can be ... the goal was to create an app that would lead the visitor through teh gallery smoothly
-short gallery labels
-
-## Connecting the wires
-= prototyping
-image of prototyping process
+1. **Design is a solution, not decoration.** I came in thinking about how the app would look. I left thinking about what it had to *do* — close a gap, remove a frustration, answer a question someone actually has. The visual language came last, and it should.
+2. **It was my first app, and the format taught me more than the topic.** Designing for a phone screen is its own discipline — thumb reach, one-handed use, the way a hamburger menu has to earn its place. None of that shows up in a poster or a website. Every constraint became a lesson.
+3. **Less really is more — but only when you mean it.** Stripping things out is easy. Stripping things out *on purpose*, knowing exactly why each remaining element stays, is the harder version. The pink accent only works because everything around it is quiet.
 
 
-## 30 Seconds that Lead to a 2-Hour Journey / Transforming a Silent Walk into a Shared Journey
-
-
-the final look
-
-key takeaway:what I learned
-outcome if we don’t have the data/what I learned
 
 [Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1)
 
 [View this case study in Figma ](https://www.figma.com/proto/kths0MtLtwNWRim2aIUroV/English-for-Designers?node-id=287-2648&t=xI8cHyuwxh3LRaBp-1)
  
-CTA
-Let’s talk. There’s more than a UXUI painting I can do for you!
+
+Let’s talk. There’s more than a UX/UI painting I can do for you!
 Portfolio | Linkedin
