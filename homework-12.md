@@ -82,9 +82,9 @@ Everything you buy there has a purpose. Books teach kids how to read and count. 
 ![Two views of the dragon plush toy: a side profile showing the long curved neck with pink dorsal spikes and a small pink flower behind the ear, and a front view of Gerd sitting upright with a pink flower on his belly, his arms by his side, and a small embroidered sailboat on his foot — the Ubba logo.](img/gerd.png)
 for example, Gerd here is an adventurous little dragon who doesn't like storms and loves to play outside.
 
-![text](img/values.png)
+![black text on white background saying quality, benefits, together time](img/values.png)
 It was a bit challenging at first. I had to define the brand values, which can sound abstract to customers. Telling them you have products with good quality, great materials, and benefits that support quality time together sounds nice — until you actually have to communicate it to them.
-![text](img/question-mark.png)
+![black question mark on white background](img/question-mark.png)
 
 ![A watercolor illustration of four polar bears in a row on pale blue snow — a tall parent on the left, two smaller bears in the middle, and another adult on the right. They're drawn in a loose, sketchy style with pencil scribbles showing through the white fur, giving them a soft, hand-made feel. All four look directly out with simple, friendly faces.](img/bear-family.png)
 So I came up with the bear family. The bear family represents the brand values and communicates them through their day-to-day life. They raise their kids in line with the Montessori approach and respectful parenting.
