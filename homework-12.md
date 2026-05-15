@@ -67,7 +67,7 @@ Ubba wants to give children a beautiful and healthy childhood full of stories, e
 
 Ubba helps parents choose the right products for their kids. Ubba offers sustainable:
 
-![text](img/ubba-stuffed-animals.png)
+![A floating arrangement of Ubba plush characters on white: the green dragon with pink spikes on the left, an otter king in a red dress hanging upside down at the top, a plush anteater in the top right, a plush rabbit in a blue gingham dress wearing a teal crown, and a plush otter in a green dress with a pink crown.](img/ubba-stuffed-animals.png)
 - Toys
 ![text](img/ubba-games.png)
 - Games
