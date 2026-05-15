@@ -76,34 +76,29 @@ From these sketches, I came up with the core elements that would hold the whole 
 
 Once the structure was set and the wires were connected, it was time to paint the interface of the app. I moved from pencil sketches and low-fidelity wireframes to defining a high-fidelity visual language. This wasn't just about picking the right colors, it was about creating a digital enviroment that felt intuitive, ensuring the UI remained a quiet frame that never competed with the artwork for the user's attention.
 
-#### The paints I used
-I chose black, white, and grey as the primary colors to ensure the interface never interrupted the paintings; instead, it provides a sharp, sophisticated contrast that lets the art breathe.
+### The neutral base
+Black, white, and grey form the primary palette. They don't compete with the art; they hold it and let the art breathe.
 
 ![painting of neutral colors](img/neutral-colors.png)
 
-For the accent paints, I chose sage green, blue and a vibrant pink. They act as startegic visual cues that guide the user's journey, much like a painter leads an audience across canvas.
+### The accents
+Sage green, soft blue, and a vibrant pink act as wayfinding cues — used sparingly, only where the user needs to be drawn forward.
 ![painting of colors](img/colors.png)
 
 #### Mixing the Palette
 After defining the colors, I focused on the interface's structural elements to ensure the experience remained both clean and highly functional.
 
-I chose SF Pro Display as my primary typeface for its neutral character and simplicity. It doesn't demand attention, it is easy to read so it is a perfect combination of what clean design requires.
+SF Pro Display does the typographic work: legible in low gallery light, neutral enough to never call attention to itself.
 
-- Legibility as a Priority: SF Pro Display ensures every word is readable at a glance, even in the low-light environment of a gallery.
-
-- Functional Minimalism: Every button and asset was designed to be intuitive, allowing the user to navigate with zero learning curve.
-
-- A Quiet Companion: By stripping away unnecessary visual fluff, I ensured the app remains a humble frame for Shaun Tan’s surrealist masterpieces.
+Every button and asset was designed to be intuitive, allowing the user to navigate with zero learning curve.
 
 ![showcase of app components](img/components.png)
 
 ![showcase of app components](img/components-2.png)
 
-image of typography
-image of assets
 
-## How I painted the final artwork
-Once I created all the components for the app, I applied it to my wireframes. That's when the blank canvas started to look like the real painting.
+## The final painting
+With components in place, the wireframes came alive. Three flows do the heavy lifting:
 
 The final design of the app is clean and provides following pages:
 
