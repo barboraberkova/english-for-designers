@@ -111,6 +111,15 @@ The home screen leads with the Exhibition of the Week, followed by a list of ong
 A hamburger menu in the top corner holds everything you might need before you arrive: your tickets, information about Shaun Tan, contact details, the audio guide, the virtual gallery map, ongoing exhibitions, and a Czech/English language toggle.
 ![showcase of app pages](img/home-tickets.png)
 
+### Navigating the gallery
+
+Once you're inside, the **bottom navigation bar** becomes the center of the experience. Four entry points, used hands-free as you walk:
+
+- **Audio guide** — short labels by default, longer stories on tap, paced to your walk rather than a fixed tour.
+- **Virtual gallery** — a live map that shows which room you're in and what's around the next corner.
+- **Scan a painting** — point your camera at any work and pull up its story, materials, and the artist's notes.
+- **Profile** — your tickets, favorites, saved files, reviews, and settings, all in one place.
+
 the final design, solution
 what it provides
 - tickets storage
