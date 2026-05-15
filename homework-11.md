@@ -49,7 +49,7 @@ Before drawing a single line, I had to understand how people actually behave aro
 
 Our conversations were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
 
-![image containing information about gallery visits, technical relationship and app expectations](img/respondents-2.png)
+![Two user personas side by side: Ema, an infrequent gallery visitor who prefers minimalist apps and theatre over galleries; and Rudolf, a regular visitor who wants a personal audio guide and deeper content. Each persona is illustrated with a Shaun Tan character.](img/respondents-2.png)
 *Respondent preferences*
 
 Three insights changed the direction of the project:
@@ -87,12 +87,12 @@ Once the structure was set and the wires were connected, it was time to paint th
 ### The neutral base
 Black, white, and grey form the primary palette. They don't compete with the art; they hold it and let the art breathe.
 
-![painting of neutral colors](img/neutral-colors.png)
+![Three color variants of the same Shaun Tan painting of cicada — gray, white, black — used to show the used colors.](img/neutral-colors.png)
 *Neutral colors*
 
 ### The accents
 Sage green, soft blue, and a vibrant pink act as wayfinding cues — used sparingly, only where the user needs to be drawn forward.
-![painting of colors](img/colors.png)
+![Three color variants of the same Shaun Tan painting of cicada — pink, blue, and sage green — used to show the used colors](img/colors.png)
 *Accent colors*
 
 ### Mixing the palette
