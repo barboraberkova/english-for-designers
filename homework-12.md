@@ -29,7 +29,7 @@ building Legos, talking to imaginary friends, and creating stories.
 
 ![A group of adults and children climbing a steep grassy path toward a Czech sign reading "Vstup na vlastní nebezpečí" (Entry at your own risk). Some of the children wear medieval costumes — chainmail hoods and red-and-white tunics — alongside hikers in modern clothing with backpacks. Wildflowers grow along the trail.](img/friends.png)
 Kids need other kids to play with, and my parents made sure I had that. I was surrounded by friends, going on trips, playing in the woods, and just being kids. 
-![text](img/friends-games.png)
+![A collage of five childhood photos: four kids in pink jackets and chainmail hoods perched on top of a giant hay bale, two kids dressed as medieval knights swordfighting in a meadow, a child carefully feeding a goat, five children lined up at a wooden fence by a lake, and a group of kids walking down a country path with an adult photographing them. An adult in a backpack watches from the left edge.](img/friends-games.png)
 Our parents created an imaginary giant called Františ and his little dwarf friend Bažináč. They were constantly preparing games for us. One day we'd go on a treasure hunt; the next we'd just wander through the woods collecting pinecones and leaves. We had no phones. We were present for each other. My childhood was the best time of my life and shaped me into the person I am today.
 
 ![text](img/my-family.png)
