@@ -38,31 +38,31 @@ Then my parents gave me the chance to study abroad, which opened many doors. I g
 ![A design studio's homepage showing a dense grid of project thumbnails — branding, packaging, web design, and signage work. Visible projects include Vide (packaging in red-to-black gradient boxes), Monrix (logo), Anatei (a financial advisory website mockup on a tablet), a Volvo "Miracle Garage" project, signage for a children's playground and toilets, Havlík law firm branding, Studovat v USA, Kukoo tote bags, and various phone and laptop mockups. The top navigation is in Czech: O nás, Projekty, Služby, Kontakt, Napište nám.](img/my-work.png)
 I started a business. But I guess it wasn't enough for me. When you're an ambitious person, you'll always want more. Everything you do is never enough.
 
-![text](img/thinking-sketching.png)
+![An overhead shot of a creative workspace on a wooden floor: children's crayon drawings of figures and creatures with "DANA" and "BARBORA" written on them, an iPad showing a digital sketch in progress, a notebook with pencil drawings and handwritten notes about characters, and a ring binder with printed text. A black blanket and the photographer's leg are visible at the edge.](img/thinking-sketching.png)
 I started thinking about more business ideas. I started thinking about my bachelor's thesis. I didn't want to do just another coffee shop redesign or another visual identity for a city. I wanted to create something I could bring to life. It was around 1 a.m. when I came up with the idea of creating something for children.
 
 So my ambitions, my magical childhood, my American experience, and today's world were the cornerstones of ubba.
 
-![text](img/kids-on-phones.png)
+![Two kids side by side on a couch, each lost in their own phone. They're together but completely alone.](img/kids-on-phones.png)
 Nowadays, many kids spend a lot of time on their phones. They have no space to be bored. That doesn't exist anymore. Today's world spoils kids and gives them endless choices that aren't always the best for them.
 
 So I came up with the idea to create ubba.
 
 To create ubba, I couldn't copy the past — I had to design for the future and for a different generation.
 
-![text](img/10-minutes.png)
+![A plush green dragon with pink horns, ears, and spikes peeks in from the left side of the slide. To the right, text reads: "10 minutes is not a lot of time to introduce something..."](img/10-minutes.png)
 Ten minutes isn't a lot of time to introduce something I've been working on for the past year. But I'll give you at least a short overview and introduce the concept.
 
-![text](img/ubba-cover.png)
+![A children's shop window with the Ubba logo overlaid in white. Inside the window, a miniature scene: plush  characters in crowned dresses arranged around a tiny kitchen set with a fridge, sink, and table — like a doll's house come to life. The shop's opening hours are listed in Czech on the right door.](img/ubba-cover.png)
 Ubba is a brand for children. I could say it's a toy store, but that isn't quite right. It is way more than that.
 
-![text](img/ubba-store.png)
+![A children's shop window. Inside the window, a miniature scene: plush  characters in crowned dresses arranged around a tiny kitchen set with a fridge, sink, and table — like a doll's house come to life. The shop's opening hours are listed in Czech on the right door.](img/ubba-store.png)
 Ubba is a reaction to today's fast-moving world, full of information and things. Toy stores are filled with overpriced plastic toys. Internet stores offer endless choices of toys and other products, and none of them have any added benefit. They're just pieces of plastic.
 
-![text](img/ubba-logo.png)
+![The Ubba logo — a dark navy sailboat icon next to the brand name "ubba." in a hand-drawn lowercase font, with a small lilac dot.](img/ubba-logo.png)
 Ubba wants to give children a beautiful and healthy childhood full of stories, experiences, ideas, and discovery 
 
-![text](img/childhood-is-precious.png)
+![The plush green dragon wears a small grey party hat with a pink pom-pom, looking off to the side. The back of another Ubba plush appears in the top right corner with the brand label visible. Text in the middle reads: "childhood is the most precious thing a person has in life."](img/childhood-is-precious.png)
 — because childhood is the most precious thing a person has in life.
 
 Ubba helps parents choose the right products for their kids. Ubba offers sustainable:
