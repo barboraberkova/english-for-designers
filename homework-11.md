@@ -43,7 +43,7 @@ Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intri
 ## Stepping into the User's Shoes
 Before drawing a single line, I had to understand how people actually behave around cultural spaces such as galleries and museums and their apps. I reached out to my respondents and asked them about their habits, expectations and frustrations when using technologies. 
 
-Our conversatiosn were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
+Our conversations were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
 
 ![image containing information about gallery visits, technical relationship and app expectations](img/respondents-2.png)
 
