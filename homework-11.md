@@ -32,7 +32,7 @@ Before drawing a single line, I had to understand exactly how people interact wi
 
 Our conversatiosn were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
 
-![image containing infromatiuon about gallery visits, technical relationship and app expectations](img/respondents-2.png)
+![image containing information about gallery visits, technical relationship and app expectations](img/respondents-2.png)
 
 | Research Pillar | User Insight | Design Impact |
 | :--- | :--- | :--- |
@@ -62,6 +62,8 @@ From these sketches, I came up with the core elements that would hold the whole 
     * An interactive audio guide that talks to you as you wander through the gallery.
     * Hands-free navigation designed to guide you smoothly from room to room.
 * **The Invisible UI Framework:** Keeping the digital interface minimal so it doesn't compete with the physical artwork.
+
+![app map](img/app-map.png)
 
 ![wireframes of an app](img/wireframes.png)
 
