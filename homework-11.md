@@ -120,7 +120,7 @@ Once you're inside, the **bottom navigation bar** becomes the center of the expe
 - **Scan a painting** — point your camera at any work and pull up its story, materials, and the artist's notes.
 - **Profile** — your tickets, favorites, saved files, reviews, and settings, all in one place.
 
-image
+![app screens of audioguide, map and a scan](img/audio-map-scan.png)
 
 
 ## What I learned from the painting?
