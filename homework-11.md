@@ -40,7 +40,7 @@ This is the gap I wanted to close. Not one frustration, but two — **before the
 
 Two frustrations, one app. The brief I set myself was simple to say and hard to do: design a minimal, real-time companion that solves the logistics *before* the visit and the navigation *during* it — without ever raising its voice above the art.
 
-Shaun Tan's paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
+Shaun Tan's paintings are incredibly immersive, surreal, and filled with intricate details; the application's interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
 
 > "A busy interface is the enemy of a peaceful gallery visit. The app's job is to disappear once you've found what you need."
 
@@ -151,7 +151,7 @@ This was a school concept project, so I don't have install numbers or conversion
 [View this case study in Figma ](https://www.figma.com/proto/kths0MtLtwNWRim2aIUroV/English-for-Designers?node-id=287-2648&t=xI8cHyuwxh3LRaBp-1)
  
 
-Let's talk. There’s more than a UX/UI painting I can do for you!
+Let's talk. There's more than a UX/UI painting I can do for you!
 
 [Portfolio](https://www.keyspace.cz/projekty)  | [LinkedIn](https://www.linkedin.com/in/barbora-berková-997932351/?skipRedirect=true)
 
