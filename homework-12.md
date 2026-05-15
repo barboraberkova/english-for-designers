@@ -74,28 +74,28 @@ Ubba helps parents choose the right products for their kids. Ubba offers sustain
 ![An Ubba picture book titled "Jak Gerd našel vajíčko" (How Gerd Found the Egg) in Czech. The cover shows a watercolor illustration of Gerd the green dragon sitting in a meadow next to a bird's nest with a small egg, surrounded by bumblebees, wildflowers, and a tiny goldfinch. The title is in gold lettering against a pastel sky.](img/ubba-book.png)
 - Books
 
-![text](img/ubba-photos.png)
+![Four photos of children with their Ubba plushes: a girl in glasses and a pink headband holds her blue anteater on what looks like a tram or bus, the plush otter king in a red dress sits next to a child's legs on a bed, a curly-haired toddler hugs the green dragon to her chest with quiet focus, and a girl in a daisy-print dress carries green dragon while at a sunny zoo.](img/ubba-photos.png)
 I created ubba as a magical place.
 
 Everything you buy there has a purpose. Books teach kids how to read and count. Every stuffed animal has a story — 
 
-![text](img/gerd.png)
+![Two views of the dragon plush toy: a side profile showing the long curved neck with pink dorsal spikes and a small pink flower behind the ear, and a front view of Gerd sitting upright with a pink flower on his belly, his arms by his side, and a small embroidered sailboat on his foot — the Ubba logo.](img/gerd.png)
 for example, Gerd here is an adventurous little dragon who doesn't like storms and loves to play outside.
 
 ![text](img/values.png)
 It was a bit challenging at first. I had to define the brand values, which can sound abstract to customers. Telling them you have products with good quality, great materials, and benefits that support quality time together sounds nice — until you actually have to communicate it to them.
 ![text](img/question-mark.png)
 
-![text](img/bear-family.png)
+![A watercolor illustration of four polar bears in a row on pale blue snow — a tall parent on the left, two smaller bears in the middle, and another adult on the right. They're drawn in a loose, sketchy style with pencil scribbles showing through the white fur, giving them a soft, hand-made feel. All four look directly out with simple, friendly faces.](img/bear-family.png)
 So I came up with the bear family. The bear family represents the brand values and communicates them through their day-to-day life. They raise their kids in line with the Montessori approach and respectful parenting.
-![text](img/bear-communication.png)
+![Polar bear communication: on the left, a mother bear and a baby bear have a conversation in Czech speech bubbles — the mother says "Mia, come have some broccoli," the baby replies "Broccoli is yuck. I don't want it!" Below, the mother tries again: "Okay. Do you want to help me chop cucumbers and salad for dinner?" The baby answers happily, "Yes! Hooray! Cooking! I love cucumber!" On the right, two circular age-rating badges show "5+" and "3+" with close-up illustrations of the bears.](img/bear-communication.png)
 Each member stands for something. The kids represent how kids behave, and the parents act in accordance with the principles of Montessori parenting.
 
-![text](img/summary-ubba.png)
+![A spread showing the Ubba brand across multiple touchpoints: the Ubba website with its character lineup, a mobile app on iPhone showing plush toys for sale ("Plyšoví kamarádi"), watercolor character illustrations of a highland cow, otter, and dragon floating in the air, sample Memoreto memory cards, a tote bag with the elephant Waldemar pattern, an open Ubba activity book showing a garden-themed page ("Zahradnice Isilka"), a ceramic mug with the mouse king character, and a second iPhone showing a colorful grid of mouse king illustrations.](img/summary-ubba.png)
 I came up with the concept. I created the designs for everything. I designed the website. An app. Everything you can think of. But we'll talk about that some other time.
 
 
-![text](img/ubba-girl-gerd.png)
+![A small girl with curly hair sits on a low bed in her room, holding the green Gerd plush dragon in her lap with both hands, her head bent gently toward him. Beside her on the bed sits a plush otter king in a teal crown and red dress. Soft natural light, a wicker toy basket, and a mushroom-and-bug tapestry fill the background.](img/ubba-girl-gerd.png)
 I might not change the world. But I at least want to make an impact on someone else's life. That's why I created ubba.
 
 ![text](img/childhood-photo.png)
