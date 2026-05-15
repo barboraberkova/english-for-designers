@@ -114,6 +114,8 @@ With components in place, the wireframes came alive — clean, quiet,
 and organised around the moments that actually matter to a gallery 
 visitor.
 
+It starts with a quick sign-in — email, password, in.
+
 ![sign in or log in window](img/Registration.png)
 *Registration window*
 
