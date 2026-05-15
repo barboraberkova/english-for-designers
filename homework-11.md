@@ -11,7 +11,7 @@
 
 
 
-![Three phones showing the gallery app's home, contact, and ticket screens side by side.](img/mobiles-app.png)
+![Three iPhones in lavender cases showing key app screens at an angle: the "Vstupenky" (Tickets) page, the home screen with the featured "Cikáda" exhibition, and the "Shaun Tan Gallery" page with the gallery's address and opening hours.](img/mobiles-app.png)
 *Application screens*
 
 ## Meet the hero
@@ -74,10 +74,10 @@ From these sketches, I came up with the core elements that would hold the whole 
 - **The audio compass** — a hands-free guide that talks you through rooms at your own pace, with short labels by default and longer stories when you want them.
 - **The invisible frame** — a UI quiet enough that the artwork stays the loudest thing in the room.
 
-![app map](img/app-map.png)
+![App sitemap showing six top-level sections branching from a Welcome screen and Sign-In/Registration: Home (with Exhibition of the Week, Ongoing Exhibitions, and a Reservation/Buy flow leading to Calendar and Pay), Navigation (Tickets, About Shaun Tan, Contact, Audioguide, Virtual Gallery, Ongoing Exhibitions, Language), Audioguide (List of Exhibitions, List of Artworks), Virtual Gallery (Find, Guide), Scan, and Profile (Personal Info, My Tickets, Favorites, My Files, Reviews, Settings).](img/app-map.png)
 *Map of the app*
 
-![wireframes of an app](img/wireframes.png)
+![Eight low-fidelity wireframes for the app's main screens, shown with grey placeholder blocks instead of real content: a splash screen with a logo placeholder, a basic landing layout, a content list, a home screen with a welcome text and ongoing exhibitions list, an audio guide list with three "Cikáda" entries, an exhibition cover screen with playback controls, an artwork track list inside an exhibition, and an exhibition detail page with description text and an audio guide button. Czech-language labels.](img/wireframes.png)
 *Wireframes*
 
 ### Choosing the right paints
@@ -123,7 +123,7 @@ It starts with a quick sign-in — email, password, in.
 The home screen leads with the Exhibition of the Week, followed by a list of ongoing exhibitions. Tap any exhibition and you land in the calendar, where you pick a date, reserve your slot, and buy the ticket without leaving the flow.
 
 A hamburger menu in the top corner holds everything you might need before you arrive: your tickets, information about Shaun Tan, contact details, the audio guide, the virtual gallery map, ongoing exhibitions, and a Czech/English language toggle.
-![showcase of app pages](img/home-tickets.png)
+![Nine mobile screens showing the full app flow in Czech, arranged in three rows. Top row: home screen with featured exhibition "Cikáda," same screen with a closing-hours notice, and the open side menu (Tim Armstrong logged in). Middle row: exhibition detail page for "The Tales from Outer Suburbia" by Shaun Tan, a date picker for choosing a visit date, and the ticket purchase screen. Bottom row: user profile (Tim) with account menu, a generated QR code ticket for "Cicada," and the "My Tickets" page listing three purchased tickets with QR codes.](img/home-tickets.png)
 *Showcase of the pages*
 
 ### Walking the canvas
@@ -135,7 +135,7 @@ Once you're inside, the **bottom navigation bar** becomes the center of the expe
 - **Scan a painting** — point your camera at any work and pull up its story, materials, and the artist's notes.
 - **Profile** — your tickets, favorites, saved files, reviews, and settings, all in one place.
 
-![app screens of audioguide, map and a scan](img/audio-map-scan.png)
+![Four mobile screens for the audio guide and gallery navigation features in Czech: an audio guide overview listing exhibitions by room, a track list for "The Tales from Outer Suburbia" with play and pause buttons for each artwork, an augmented-reality navigation view showing "Now turn right" with an arrow overlaid on a camera view of the gallery, and a QR-code scanner framed over a painting with instructions to scan the code beside the artwork.](img/audio-map-scan.png)
 *Audioguide, virtual gallery-map, images scan*
 
 
