@@ -15,8 +15,6 @@ If you aren't familiar with his work, you can [explore more about him](about-sha
 ![showcase of paintings](img/shaun-tan-intro.png)
 
 ## I'm feeling like a lost thing, and that’s a problem!
-(problem intro)
-what needed to be solved:
 
 It's a weekend and it's raining outside. You don't want to sit on a couch and want to do something. You heard your favorite gallery has an interesting exhibition. You open their website and learn nothing. It is a mess. You try your luck and go to the gallery. It's closed. No information on the website. Annoying isn't it?
 
@@ -35,8 +33,20 @@ Before drawing a single line, I had to understand exactly how people interact wi
 Our conversatiosn were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
 
 ![image containing infromatiuon about gallery visits, technical relationship and app expectations](img/respondents-2.png)
+
+| Research Pillar | User Insight | Design Impact |
+| :--- | :--- | :--- |
+| **Tech Relationship** | Users prefer "one-off" web searches over cluttered apps and often forget apps after a single use. | The app must provide value instantly (like Apple Wallet) to ensure long-term retention. |
+| **Content Depth** | Traditional tours feel rushed; users want a "personal guide" to control their own pace. | I prioritized a layered audio system that offers both professional and community perspectives. |
+| **Visual Style** | A demand for minimalism inspired by clean utility apps like Zalando or Strava. | I adopted an "Invisible UI" philosophy to keep the artwork as the primary focus. |
+
+I established three core takeaways that served as the creative guardrails for the entire project:
+* **The Utility of a Digital Wallet:** Borrowing from the clarity of e-commerce apps, I centralized opening hours, ticket reservations, and digital storage into a high-speed dashboard to remove all pre-visit anxiety.
+* **The Slow Exploration Flow:** To satisfy the need for a peaceful visit, I designed an "Audio Compass" and a virtual gallery map that act as silent partners, providing painting details and artist history only when requested.
+* **Minimalism as a Standard:** Since users expressed frustration with cluttered layouts, I used a simple font called SF Pro Display and a neutral palette, creating a linear user flow that feels as intuitive as a physical walk through a gallery.
+
+
 ## Starting on a Blank Canvas
-process
 
 With these user expectations, I translated these initial conceptual ideas into low-fidelity layout sketches. This process helped me before committing to high-fidelity UI elements.
 
