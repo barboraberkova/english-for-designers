@@ -1,10 +1,13 @@
 # Case Study
 
-## From Silent Walk into a Shared journey/ Transforming a Silent Walk into a Shared Journey / 30 Seconds that Lead to a 2-Hour Journey
+# 30 Seconds that Lead to a 2-Hour Journey
+## Designing a gallery companion app for Shaun Tan's surrealist world
 
 ![text introducing the goal and roles on a project](img/introduction.png)
 
-![three phones with a gallery app](img/mobiles-app.png)
+
+
+![Three phones showing the gallery app's home, contact, and ticket screens side by side.](img/mobiles-app.png)
 [Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1)
 ## Meet the hero
 To understand the audience, you have to understand teh artist - an australian artist Shaun Tan.
