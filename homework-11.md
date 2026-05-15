@@ -8,20 +8,29 @@
 
 
 ![Three phones showing the gallery app's home, contact, and ticket screens side by side.](img/mobiles-app.png)
+*Application screens*
+
+
 [Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1)
 ## Meet the hero
-To understand the audience, you have to understand teh artist - an australian artist Shaun Tan.
-Shaun’s art makes you feel like a 'lost thing' in a vast, beautiful world. My goal was to ensure the technology didn't disrupt that emotional state, but enhanced it.
+To understand the audience, you have to understand teh artist. Shaun Tan is an Australian illustrator whose work feels like being a small, lost thing in a vast and beautiful world. His paintings are quiet, surreal, and full of detail you only notice on the second look.
+
+That quietness became my design constraint. The app couldn't shout. It had to sit beside the art, not on top of it.
+
+> "A busy interface is the enemy of a peaceful gallery visit. The app's job is to disappear once you've found what you need."
 
 If you aren't familiar with his work, you can [explore more about him](about-shaun.md) to see the visual anchor to this entire system.
 
-![showcase of paintings](img/shaun-tan-intro.png)
+![showcase of Shaun Tan paintings](img/shaun-tan-intro.png)
+*Shaun Tan's paintings*
 
 ## I'm feeling like a lost thing, and that’s a problem!
 
 It's a weekend and it's raining outside. You don't want to sit on a couch and want to do something. You heard your favorite gallery has an interesting exhibition. You open their website and learn nothing. It is a mess. You try your luck and go to the gallery. It's closed. No information on the website. Annoying isn't it?
 
 You finally arrived to the gallery but another problem occurs. It can be annoying when you're in a gallery wanting to see your favorite artist and suddenly you don't know where to go. The app helps visitors find their way around easily with no need asking or being lost. It has a navigation system that can talk to you or you can follow the navigation on your screen as you wander through rooms.
+
+This is the gap I wanted to close. Not one frustration, but two — **before the visit** and **during the visit** — stitched together by a single app.
 
 ## Here comes the savior: the designer!
 how I decided to solve the problem
