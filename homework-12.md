@@ -16,7 +16,7 @@ This is me. The head of design at KeySpace.
 I grew up as an only child. It wasn't intentional. I was supposed to have siblings and play with them. But life had other plans, and I'm a person who isn't a sister to anyone.
 
 
-![text](img/pink-phone.png)
+![A toddler with messy brown hair sits in a white plastic garden chair, holding a pink toy phone up to her ear. She wears a yellow sweater under a colorful plastic bib. A green garden is blurred behind her.](img/pink-phone.png)
 I grew up with no phone. Well, only a pink one I could use to call a magic princess in my imaginary world. No phones, no iPads. My parents gave me the chance to see the world, but also the space to be bored.
 
 ![text](img/painting.png)
