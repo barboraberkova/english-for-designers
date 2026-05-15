@@ -17,8 +17,6 @@ To understand the audience, you have to understand teh artist. Shaun Tan is an A
 
 That quietness became my design constraint. The app couldn't shout. It had to sit beside the art, not on top of it.
 
-> "A busy interface is the enemy of a peaceful gallery visit. The app's job is to disappear once you've found what you need."
-
 If you aren't familiar with his work, you can [explore more about him](about-shaun.md) to see the visual anchor to this entire system.
 
 ![showcase of Shaun Tan paintings](img/shaun-tan-intro.png)
@@ -33,11 +31,10 @@ You finally arrived to the gallery but another problem occurs. It can be annoyin
 This is the gap I wanted to close. Not one frustration, but two — **before the visit** and **during the visit** — stitched together by a single app.
 
 ## Here comes the savior: the designer!
-how I decided to solve the problem
 
 To solve the dual frustration of logistical chaos and gallery navigation, I decided to design a minimal, real-time companion application. Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
 
-> "A busy interface is the enemy of a peaceful gallery visit. My goal was to make the app’s UI clean so that the focus remains entirely on the art."
+> "A busy interface is the enemy of a peaceful gallery visit. The app's job is to disappear once you've found what you need."
 
 ## Stepping into the User's Shoes
 Before drawing a single line, I had to understand exactly how people interact with cultural spaces such as galleries and museums. I reached out to my respondents and asked them about their habits, expectations and frustrations when using technologies. 
