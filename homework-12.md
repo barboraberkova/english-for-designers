@@ -69,9 +69,9 @@ Ubba helps parents choose the right products for their kids. Ubba offers sustain
 
 ![A floating arrangement of Ubba plush characters on white: the green dragon with pink spikes on the left, an otter king in a red dress hanging upside down at the top, a plush anteater in the top right, a plush rabbit in a blue gingham dress wearing a teal crown, and a plush otter in a green dress with a pink crown.](img/ubba-stuffed-animals.png)
 - Toys
-![text](img/ubba-games.png)
+![Components of the Memoreto memory card game by Ubba: a pink game box with the word "MEMORETO" in white block letters and a small green dragon illustration, plus several cards laid out — one showing illustrations of jellyfish in a counting puzzle (four on one side, one on the other), one with purple bugs, and one showing the math problem "1+2 | 8."](img/ubba-games.png)
 - Games
-![text](img/ubba-book.png)
+![An Ubba picture book titled "Jak Gerd našel vajíčko" (How Gerd Found the Egg) in Czech. The cover shows a watercolor illustration of Gerd the green dragon sitting in a meadow next to a bird's nest with a small egg, surrounded by bumblebees, wildflowers, and a tiny goldfinch. The title is in gold lettering against a pastel sky.](img/ubba-book.png)
 - Books
 
 ![text](img/ubba-photos.png)
