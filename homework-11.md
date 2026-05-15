@@ -74,7 +74,7 @@ From these sketches, I came up with the core elements that would hold the whole 
 
 ### Choosing the Right Paints
 
-Once the structure was set and the wires were connected, it was time to paint the interface of the app. I moved from pencil sketches and low-fidelity wireframes to defining a high-fidelity visual language. This wasn't just about picking the right colors, it was about creating a digital enviroment that felt intuitive, ensuring the UI remained a quiet frame that never competed with the artwork for the user's attention.
+Once the structure was set and the wires were connected, it was time to paint the interface of the app. I moved from pencil sketches and low-fidelity wireframes to defining a high-fidelity visual language. This wasn't just about picking the right colors, it was about creating a digital environment that felt intuitive, ensuring the UI remained a quiet frame that never competed with the artwork for the user's attention.
 
 ### The neutral base
 Black, white, and grey form the primary palette. They don't compete with the art; they hold it and let the art breathe.
