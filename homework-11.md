@@ -100,13 +100,15 @@ Every button and asset was designed to be intuitive, allowing the user to naviga
 ## The final painting
 With components in place, the wireframes came alive. Three flows do the heavy lifting:
 
-The final design of the app is clean and provides following pages:
+The final design of the app is clean and organises everything around three flows — one for planning the visit, one for navigating it, and one for remembering it.
 
 ### Sign In
 ![sign in or log in window](img/Registration.png)
 
-Once you finish the registration or you sign in, teh app takes you to the home page.
+### Planning the visit (rename it)
+The home screen leads with the Exhibition of the Week, followed by a list of ongoing exhibitions. Tap any exhibition and you land in the calendar, where you pick a date, reserve your slot, and buy the ticket without leaving the flow.
 
+A hamburger menu in the top corner holds everything you might need before you arrive: your tickets, information about Shaun Tan, contact details, the audio guide, the virtual gallery map, ongoing exhibitions, and a Czech/English language toggle.
 ![showcase of app pages](img/screens.png)
 
 the final design, solution
