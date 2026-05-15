@@ -152,3 +152,5 @@ This was a school concept project, so I don't have install numbers or conversion
 Let's talk. There's more than a UX/UI painting I can do for you!
 
 [Portfolio](https://www.keyspace.cz/projekty)  | [LinkedIn](https://www.linkedin.com/in/barbora-berková-997932351/?skipRedirect=true)
+
+[Go back to Home](./)
