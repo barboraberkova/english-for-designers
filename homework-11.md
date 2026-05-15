@@ -102,7 +102,7 @@ SF Pro Display does the typographic work: legible in low gallery light, neutral 
 
 Every button and asset was designed to be intuitive, allowing the user to navigate with zero learning curve.
 
-![showcase of app components](img/components.png)
+![A collage of app interface elements: a Czech-language account menu (Můj účet) with options for personal info, tickets, favorites, and settings; an iOS-style keyboard; a context menu with Add to Reading List, Bookmark, Favorites, and Find on Page; counter and play/pause button components in different states; an audio guide icon; a search bar; the app's horned-creature logo; a bottom tab bar with home, audio, gallery, scan, and profile icons; and a dark side menu showing a logged-in user "Tim Armstrong" with navigation to tickets, Shaun Tan, contact, audio guide, gallery map, and current exhibitions, plus a Czech/English language toggle.](img/components.png)
 *Application components*
 
 ![showcase of app components](img/components-2.png)
