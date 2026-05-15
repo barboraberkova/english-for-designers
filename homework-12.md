@@ -100,14 +100,14 @@ I might not change the world. But I at least want to make an impact on someone e
 
 ![Three smiling young children — a small girl in an orange hoodie and yellow skirt, a boy in a red sweatshirt with a white "8," and a younger boy in an olive ribbed sweater — sit close together on a low stone wall in front of a Czech country house with a dark wooden gable. Trees and hedges fill the background. They look genuinely happy.](img/childhood-photo.png)
 My childhood inspired me to create ubba. I want to give other kids the experience I had — or at least help parents give their kids a little piece of what I had.
-![text](img/what-is-ubba.png)
+![black text on white background: ubba is my bachelor thesis.,ubba is my business plan.](img/what-is-ubba.png)
 Ubba is my bachelor's thesis. Ubba is my business plan. 
-![text](img/thank-you-ubba.png)
+![gray text on white background: ubba is my bachelor thesis.,ubba is my business plan., black text: ubba is a thank you note.](img/thank-you-ubba.png)
 But my parents are the story behind ubba, even if they don't realize it. They shaped me into who I am today. So ubba is a thank-you note.
-![text](img/childhood.png)
+![Two photos side by side. Left: a young blonde mother in a long beige coat stands on a tree-lined park path, looking down toward a small toddler in a light hat and jacket who's wandered a few steps ahead of the stroller. Right: a man in a green jacket and cap leans down with both hands toward a small girl in pink with pigtails, who's crouched on the ground in a sandpit, completely focused on something between her feet.](img/childhood.png)
 So that's my story. Thank you for listening to my talk — but more importantly, thanks to my parents for raising a child the best way they could.
 
 There's a lot of work to come, but I hope that one day you'll come to the ubba store to say hi with your kids and buy something for yourself.
 
-![text](img/contact.png)
+![Contact slide — "let's work together!" Barbora Berková, Head of Design at keyspace.cz, b.berkova@keyspace.cz.](img/contact.png)
 For now, if you'd like to know more about ubba or my other projects, reach out. We can work together.
