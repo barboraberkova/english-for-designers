@@ -105,7 +105,7 @@ Every button and asset was designed to be intuitive, allowing the user to naviga
 ![A collage of app interface elements: a Czech-language account menu (Můj účet) with options for personal info, tickets, favorites, and settings; an iOS-style keyboard; a context menu with Add to Reading List, Bookmark, Favorites, and Find on Page; counter and play/pause button components in different states; an audio guide icon; a search bar; the app's horned-creature logo; a bottom tab bar with home, audio, gallery, scan, and profile icons; and a dark side menu showing a logged-in user "Tim Armstrong" with navigation to tickets, Shaun Tan, contact, audio guide, gallery map, and current exhibitions, plus a Czech/English language toggle.](img/components.png)
 *Application components*
 
-![showcase of app components](img/components-2.png)
+![Three app screens from the ticket booking flow, in Czech: a "How many tickets?" selector with counters for adult, child (2–12), student (under 26 with ID), and senior; an Apple Pay checkout sheet showing card and contact details; and an exhibition date picker showing August 2025 with a search field for the exhibition name ("Cikáda" entered). Below: a row of UI icons and accepted payment methods — Visa, Mastercard, Google Pay, Apple Pay.](img/components-2.png)
 *Application components*
 
 
