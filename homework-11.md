@@ -149,11 +149,6 @@ This was a school concept project, so I don't have install numbers or conversion
 
 [Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1)
 
-[View this case study in Figma ](https://www.figma.com/proto/kths0MtLtwNWRim2aIUroV/English-for-Designers?node-id=287-2648&t=xI8cHyuwxh3LRaBp-1)
- 
-
 Let's talk. There's more than a UX/UI painting I can do for you!
 
 [Portfolio](https://www.keyspace.cz/projekty)  | [LinkedIn](https://www.linkedin.com/in/barbora-berková-997932351/?skipRedirect=true)
-
-
