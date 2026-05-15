@@ -116,7 +116,7 @@ visitor.
 
 It starts with a quick sign-in — email, password, in.
 
-![sign in or log in window](img/Registration.png)
+![Three mobile screens showing the app's onboarding flow in Czech: a splash screen with The Tan Room logo (a black horned creature), a login screen (Přihlášení) with email and password fields plus Facebook, Google, and Apple sign-in options, and a registration screen (Registrace) with username, email, password, and a terms checkbox.](img/Registration.png)
 *Registration window*
 
 ### Sketching the visit
