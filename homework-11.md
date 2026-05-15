@@ -1,17 +1,19 @@
-# Case Study
-
 # 30 Seconds that Lead to a 2-Hour Journey
 ## Designing a gallery companion app for Shaun Tan's surrealist world
 
-![text introducing the goal and roles on a project](img/introduction.png)
+| | |
+| :--- | :--- |
+| **Year** | 2025 |
+| **Role** | UX/UI Designer — research, wireframes, visual design, prototype |
+| **Type** | School project |
+| **Tools** | Figma, pencil + paper |
+| **Prototype** | [Try it in Figma →](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1) |
 
 
 
 ![Three phones showing the gallery app's home, contact, and ticket screens side by side.](img/mobiles-app.png)
 *Application screens*
 
-
-[Try the prototype!](https://www.figma.com/proto/7wpjjC9Rh4RkNEgiTwopHB/DD-aplikace-galerie?node-id=178-7863&t=N1YZQwhhy3OGCW7U-1)
 ## Meet the hero
 To understand the audience, you have to understand teh artist. Shaun Tan is an Australian illustrator whose work feels like being a small, lost thing in a vast and beautiful world. His paintings are quiet, surreal, and full of detail you only notice on the second look.
 
@@ -32,27 +34,26 @@ This is the gap I wanted to close. Not one frustration, but two — **before the
 
 ## Here comes the savior: the designer!
 
-To solve the dual frustration of logistical chaos and gallery navigation, I decided to design a minimal, real-time companion application. Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
+Two frustrations, one app. The brief I set myself was simple to say and hard to do: design a minimal, real-time companion that solves the logistics *before* the visit and the navigation *during* it — without ever raising its voice above the art.
+
+Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
 
 > "A busy interface is the enemy of a peaceful gallery visit. The app's job is to disappear once you've found what you need."
 
 ## Stepping into the User's Shoes
-Before drawing a single line, I had to understand exactly how people interact with cultural spaces such as galleries and museums. I reached out to my respondents and asked them about their habits, expectations and frustrations when using technologies. 
+Before drawing a single line, I had to understand how people actually behave around cultural spaces such as galleries and museums and their apps. I reached out to my respondents and asked them about their habits, expectations and frustrations when using technologies. 
 
 Our conversatiosn were about the frequency of their gallery visits, where they look for information and what they expect from a dedicated gallery application.
 
 ![image containing information about gallery visits, technical relationship and app expectations](img/respondents-2.png)
 
-| Research Pillar | User Insight | Design Impact |
-| :--- | :--- | :--- |
-| **Tech Relationship** | Users prefer "one-off" web searches over cluttered apps and often forget apps after a single use. | The app must provide value instantly (like Apple Wallet) to ensure long-term retention. |
-| **Content Depth** | Traditional tours feel rushed; users want a "personal guide" to control their own pace. | I prioritized a layered audio system that offers both professional and community perspectives. |
-| **Visual Style** | A demand for minimalism inspired by clean utility apps like Zalando or Strava. | I adopted an "Invisible UI" philosophy to keep the artwork as the primary focus. |
+Three insights changed the direction of the project:
 
-I established three core takeaways that served as the creative guardrails for the entire project:
-* **The Utility of a Digital Wallet:** Borrowing from the clarity of e-commerce apps, I centralized opening hours, ticket reservations, and digital storage into a high-speed dashboard to remove all pre-visit anxiety.
-* **The Slow Exploration Flow:** To satisfy the need for a peaceful visit, I designed an "Audio Compass" and a virtual gallery map that act as silent partners, providing painting details and artist history only when requested.
-* **Minimalism as a Standard:** Since users expressed frustration with cluttered layouts, I used a simple font called SF Pro Display and a neutral palette, creating a linear user flow that feels as intuitive as a physical walk through a gallery.
+| Research pillar | What users told me | What it changed in the design |
+| :--- | :--- | :--- |
+| **Tech relationship** | "I forget single-use apps within a week." | The app needed Apple Wallet-level utility to justify staying installed. |
+| **Content depth** | "Guided tours feel rushed — I want to set my own pace." | Layered audio: short labels by default, longer stories on tap. |
+| **Visual style** | "I like apps that get out of the way, like Strava or Zalando." | An "invisible UI" — neutral palette, minimal chrome, art front and centre. |
 
 
 ## Starting on a Blank Canvas
