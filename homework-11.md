@@ -26,7 +26,7 @@ If you aren't familiar with his work, you can [explore more about him](about-sha
 
 ## I'm feeling like a lost thing, and that's a problem!
 
-It's Saturday. It's raining. You remember your favourite gallery has 
+It's Saturday. It's raining. You remember your favorite gallery has 
 a new exhibition, so you open their website — and find nothing useful. 
 You go anyway. It's closed. No hours, no warning, no way to know.
 
