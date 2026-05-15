@@ -40,7 +40,7 @@ This is the gap I wanted to close. Not one frustration, but two — **before the
 
 Two frustrations, one app. The brief I set myself was simple to say and hard to do: design a minimal, real-time companion that solves the logistics *before* the visit and the navigation *during* it — without ever raising its voice above the art.
 
-Shaun Tan’s paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
+Shaun Tan's paintings are incredibly immersive, surreal, and filled with intricate details; the application’s interface needed to act as a quiet frame rather than a loud distraction, ensuring the artwork itself never got lost in a messy digital layout.
 
 > "A busy interface is the enemy of a peaceful gallery visit. The app's job is to disappear once you've found what you need."
 
@@ -79,6 +79,7 @@ From these sketches, I came up with the core elements that would hold the whole 
 
 ![wireframes of an app](img/wireframes.png)
 *Wireframes*
+
 ### Choosing the right paints
 
 Once the structure was set and the wires were connected, it was time to paint the interface of the app. I moved from pencil sketches and low-fidelity wireframes to defining a high-fidelity visual language. This wasn't just about picking the right colors, it was about creating a digital environment that felt intuitive, ensuring the UI remained a quiet frame that never competed with the artwork for the user's attention.
@@ -113,7 +114,6 @@ With components in place, the wireframes came alive — clean, quiet,
 and organised around the moments that actually matter to a gallery 
 visitor.
 
-### Sign In
 ![sign in or log in window](img/Registration.png)
 *Registration window*
 
@@ -124,7 +124,7 @@ A hamburger menu in the top corner holds everything you might need before you ar
 ![showcase of app pages](img/home-tickets.png)
 *Showcase of the pages*
 
-### Navigating the gallery
+### Walking the canvas
 
 Once you're inside, the **bottom navigation bar** becomes the center of the experience. Four entry points, used hands-free as you walk:
 
@@ -137,7 +137,7 @@ Once you're inside, the **bottom navigation bar** becomes the center of the expe
 *Audioguide, virtual gallery-map, images scan*
 
 
-## What I learned from the painting?
+## What I learned from the painting
 
 This was a school concept project, so I don't have install numbers or conversion rates to point to. What I have instead is three things I'll carry into the next project:
 
@@ -151,7 +151,7 @@ This was a school concept project, so I don't have install numbers or conversion
 [View this case study in Figma ](https://www.figma.com/proto/kths0MtLtwNWRim2aIUroV/English-for-Designers?node-id=287-2648&t=xI8cHyuwxh3LRaBp-1)
  
 
-Let’s talk. There’s more than a UX/UI painting I can do for you!
+Let's talk. There’s more than a UX/UI painting I can do for you!
 
 [Portfolio](https://www.keyspace.cz/projekty)  | [LinkedIn](https://www.linkedin.com/in/barbora-berková-997932351/?skipRedirect=true)
 
